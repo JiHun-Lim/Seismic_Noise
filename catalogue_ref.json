@@ -1,0 +1,3809 @@
+{
+    "ADO2": {
+        "EL": {
+            "station_latitude_deg": 36.412201,
+            "station_lingitude_deg": 128.94880700000002,
+            "station_elevation_m": 324.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.412201,
+            "station_lingitude_deg": 128.94880700000002,
+            "station_elevation_m": 324.0
+        }
+    },
+    "ADOA": {
+        "HG": {
+            "station_latitude_deg": 36.572701,
+            "station_lingitude_deg": 128.700806,
+            "station_elevation_m": 168.0
+        }
+    },
+    "AJD": {
+        "EL": {
+            "station_latitude_deg": 34.747799,
+            "station_lingitude_deg": 126.123802,
+            "station_elevation_m": 125.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.747799,
+            "station_lingitude_deg": 126.123802,
+            "station_elevation_m": 125.0
+        }
+    },
+    "AMD": {
+        "HH": {
+            "station_latitude_deg": 35.3437,
+            "station_lingitude_deg": 126.029999,
+            "station_elevation_m": 79.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.3437,
+            "station_lingitude_deg": 126.029999,
+            "station_elevation_m": 79.0
+        }
+    },
+    "ANM": {
+        "HG": {
+            "station_latitude_deg": 36.5387,
+            "station_lingitude_deg": 126.330002,
+            "station_elevation_m": 84.0
+        }
+    },
+    "BAR": {
+        "HH": {
+            "station_latitude_deg": 37.9772,
+            "station_lingitude_deg": 124.714203,
+            "station_elevation_m": 78.0
+        }
+    },
+    "BBK": {
+        "EL": {
+            "station_latitude_deg": 35.5798,
+            "station_lingitude_deg": 129.435699,
+            "station_elevation_m": 45.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.5798,
+            "station_lingitude_deg": 129.435699,
+            "station_elevation_m": 45.0
+        }
+    },
+    "BGD": {
+        "HH": {
+            "station_latitude_deg": 34.16,
+            "station_lingitude_deg": 126.555496,
+            "station_elevation_m": 9.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.16,
+            "station_lingitude_deg": 126.555496,
+            "station_elevation_m": 9.0
+        }
+    },
+    "BON": {
+        "EL": {
+            "station_latitude_deg": 36.548199,
+            "station_lingitude_deg": 127.798203,
+            "station_elevation_m": 335.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.548199,
+            "station_lingitude_deg": 127.798203,
+            "station_elevation_m": 335.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.548199,
+            "station_lingitude_deg": 127.798203,
+            "station_elevation_m": 335.0
+        }
+    },
+    "BOSB": {
+        "HH": {
+            "station_latitude_deg": 34.7635,
+            "station_lingitude_deg": 127.211998,
+            "station_elevation_m": 65.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.7635,
+            "station_lingitude_deg": 127.211998,
+            "station_elevation_m": 65.0
+        }
+    },
+    "BSA": {
+        "HG": {
+            "station_latitude_deg": 35.104801,
+            "station_lingitude_deg": 129.031799,
+            "station_elevation_m": 107.0
+        }
+    },
+    "BUS2": {
+        "HH": {
+            "station_latitude_deg": 35.248699,
+            "station_lingitude_deg": 129.112503,
+            "station_elevation_m": 117.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.248699,
+            "station_lingitude_deg": 129.112503,
+            "station_elevation_m": 117.0
+        }
+    },
+    "BUY": {
+        "HG": {
+            "station_latitude_deg": 36.272701,
+            "station_lingitude_deg": 126.9207,
+            "station_elevation_m": 49.0
+        }
+    },
+    "BUYB": {
+        "HH": {
+            "station_latitude_deg": 36.272701,
+            "station_lingitude_deg": 126.9207,
+            "station_elevation_m": 59.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.272701,
+            "station_lingitude_deg": 126.9207,
+            "station_elevation_m": 59.0
+        }
+    },
+    "CEA": {
+        "EL": {
+            "station_latitude_deg": 36.8232,
+            "station_lingitude_deg": 127.2575,
+            "station_elevation_m": 231.0
+        }
+    },
+    "CEJ": {
+        "HG": {
+            "station_latitude_deg": 36.639801,
+            "station_lingitude_deg": 127.440498,
+            "station_elevation_m": 94.0
+        }
+    },
+    "CGD": {
+        "EL": {
+            "station_latitude_deg": 35.607498,
+            "station_lingitude_deg": 128.842697,
+            "station_elevation_m": 115.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.607498,
+            "station_lingitude_deg": 128.842697,
+            "station_elevation_m": 115.0
+        }
+    },
+    "CHC2": {
+        "HH": {
+            "station_latitude_deg": 37.777699,
+            "station_lingitude_deg": 127.814499,
+            "station_elevation_m": 268.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.777699,
+            "station_lingitude_deg": 127.814499,
+            "station_elevation_m": 268.0
+        }
+    },
+    "CHJ2": {
+        "HG": {
+            "station_latitude_deg": 36.873001,
+            "station_lingitude_deg": 127.9748,
+            "station_elevation_m": 247.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.873001,
+            "station_lingitude_deg": 127.9748,
+            "station_elevation_m": 247.0
+        }
+    },
+    "CHNB": {
+        "HH": {
+            "station_latitude_deg": 38.271,
+            "station_lingitude_deg": 127.121201,
+            "station_elevation_m": 184.0
+        }
+    },
+    "CHO": {
+        "HG": {
+            "station_latitude_deg": 35.840698,
+            "station_lingitude_deg": 127.115997,
+            "station_elevation_m": 90.0
+        }
+    },
+    "CHR": {
+        "HG": {
+            "station_latitude_deg": 35.543999,
+            "station_lingitude_deg": 128.491699,
+            "station_elevation_m": 115.0
+        }
+    },
+    "CHS": {
+        "HH": {
+            "station_latitude_deg": 36.181198,
+            "station_lingitude_deg": 129.08819599999998,
+            "station_elevation_m": 240.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.181198,
+            "station_lingitude_deg": 129.08819599999998,
+            "station_elevation_m": 240.0
+        }
+    },
+    "CHY": {
+        "HG": {
+            "station_latitude_deg": 36.94380200000001,
+            "station_lingitude_deg": 128.914505,
+            "station_elevation_m": 362.0
+        }
+    },
+    "CHYB": {
+        "HH": {
+            "station_latitude_deg": 36.944,
+            "station_lingitude_deg": 128.914505,
+            "station_elevation_m": 370.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.944,
+            "station_lingitude_deg": 128.914505,
+            "station_elevation_m": 370.0
+        }
+    },
+    "CIG": {
+        "HG": {
+            "station_latitude_deg": 36.039799,
+            "station_lingitude_deg": 128.381302,
+            "station_elevation_m": 74.0
+        }
+    },
+    "CJD": {
+        "HH": {
+            "station_latitude_deg": 33.959301,
+            "station_lingitude_deg": 126.293297,
+            "station_elevation_m": 91.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.959301,
+            "station_lingitude_deg": 126.293297,
+            "station_elevation_m": 91.0
+        }
+    },
+    "CPR": {
+        "EL": {
+            "station_latitude_deg": 36.221199,
+            "station_lingitude_deg": 127.971802,
+            "station_elevation_m": 284.0
+        }
+    },
+    "CSO": {
+        "HG": {
+            "station_latitude_deg": 36.3918,
+            "station_lingitude_deg": 129.0793,
+            "station_elevation_m": 236.0
+        }
+    },
+    "CWO": {
+        "EL": {
+            "station_latitude_deg": 38.0835,
+            "station_lingitude_deg": 127.5205,
+            "station_elevation_m": 368.0
+        }
+    },
+    "DACB": {
+        "HH": {
+            "station_latitude_deg": 37.831799,
+            "station_lingitude_deg": 124.706802,
+            "station_elevation_m": 81.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.831799,
+            "station_lingitude_deg": 124.706802,
+            "station_elevation_m": 81.0
+        }
+    },
+    "DAG2": {
+        "HH": {
+            "station_latitude_deg": 35.768501,
+            "station_lingitude_deg": 128.897003,
+            "station_elevation_m": 294.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.768501,
+            "station_lingitude_deg": 128.897003,
+            "station_elevation_m": 294.0
+        }
+    },
+    "DAU": {
+        "HG": {
+            "station_latitude_deg": 35.8857,
+            "station_lingitude_deg": 128.618805,
+            "station_elevation_m": 90.0
+        }
+    },
+    "DDC": {
+        "HG": {
+            "station_latitude_deg": 37.902199,
+            "station_lingitude_deg": 127.061203,
+            "station_elevation_m": 147.0
+        }
+    },
+    "DEI": {
+        "EL": {
+            "station_latitude_deg": 37.255798,
+            "station_lingitude_deg": 126.104797,
+            "station_elevation_m": 68.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.255798,
+            "station_lingitude_deg": 126.104797,
+            "station_elevation_m": 68.0
+        }
+    },
+    "DGY2": {
+        "HH": {
+            "station_latitude_deg": 37.6903,
+            "station_lingitude_deg": 128.674194,
+            "station_elevation_m": 833.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.6903,
+            "station_lingitude_deg": 128.674194,
+            "station_elevation_m": 833.0
+        }
+    },
+    "DKJ": {
+        "EL": {
+            "station_latitude_deg": 35.94670100000001,
+            "station_lingitude_deg": 129.108994,
+            "station_elevation_m": 173.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.94670100000001,
+            "station_lingitude_deg": 129.108994,
+            "station_elevation_m": 173.0
+        }
+    },
+    "DOKDO": {
+        "HH": {
+            "station_latitude_deg": 37.2393,
+            "station_lingitude_deg": 131.867798,
+            "station_elevation_m": 140.0
+        }
+    },
+    "ECDB": {
+        "HH": {
+            "station_latitude_deg": 36.118301,
+            "station_lingitude_deg": 125.979698,
+            "station_elevation_m": 73.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.118301,
+            "station_lingitude_deg": 125.979698,
+            "station_elevation_m": 73.0
+        }
+    },
+    "EMSB": {
+        "HH": {
+            "station_latitude_deg": 36.973701,
+            "station_lingitude_deg": 127.623703,
+            "station_elevation_m": 182.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.973701,
+            "station_lingitude_deg": 127.623703,
+            "station_elevation_m": 182.0
+        }
+    },
+    "EURB": {
+        "HH": {
+            "station_latitude_deg": 35.322701,
+            "station_lingitude_deg": 128.287994,
+            "station_elevation_m": 66.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.322701,
+            "station_lingitude_deg": 128.287994,
+            "station_elevation_m": 66.0
+        }
+    },
+    "EUSB": {
+        "HG": {
+            "station_latitude_deg": 36.356201,
+            "station_lingitude_deg": 128.688705,
+            "station_elevation_m": 132.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.356201,
+            "station_lingitude_deg": 128.688705,
+            "station_elevation_m": 132.0
+        }
+    },
+    "GAHB": {
+        "HH": {
+            "station_latitude_deg": 37.707699,
+            "station_lingitude_deg": 126.446297,
+            "station_elevation_m": 62.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.707699,
+            "station_lingitude_deg": 126.446297,
+            "station_elevation_m": 62.0
+        }
+    },
+    "GAPB": {
+        "HH": {
+            "station_latitude_deg": 37.8442,
+            "station_lingitude_deg": 127.495003,
+            "station_elevation_m": 131.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.8442,
+            "station_lingitude_deg": 127.495003,
+            "station_elevation_m": 131.0
+        }
+    },
+    "GBI": {
+        "EL": {
+            "station_latitude_deg": 36.6255,
+            "station_lingitude_deg": 125.5597,
+            "station_elevation_m": 115.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.6255,
+            "station_lingitude_deg": 125.5597,
+            "station_elevation_m": 115.0
+        }
+    },
+    "GGDB": {
+        "HH": {
+            "station_latitude_deg": 34.052299,
+            "station_lingitude_deg": 125.126297,
+            "station_elevation_m": 54.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.052299,
+            "station_lingitude_deg": 125.126297,
+            "station_elevation_m": 54.0
+        }
+    },
+    "GIC": {
+        "HG": {
+            "station_latitude_deg": 36.0798,
+            "station_lingitude_deg": 128.102295,
+            "station_elevation_m": 124.0
+        }
+    },
+    "GKP1": {
+        "HH": {
+            "station_latitude_deg": 35.889301,
+            "station_lingitude_deg": 128.60600300000002,
+            "station_elevation_m": 0.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.889301,
+            "station_lingitude_deg": 128.60600300000002,
+            "station_elevation_m": 0.0
+        }
+    },
+    "GMDB": {
+        "HH": {
+            "station_latitude_deg": 34.040797999999995,
+            "station_lingitude_deg": 127.2883,
+            "station_elevation_m": 140.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.040797999999995,
+            "station_lingitude_deg": 127.2883,
+            "station_elevation_m": 140.0
+        }
+    },
+    "GOCB": {
+        "HH": {
+            "station_latitude_deg": 35.348499,
+            "station_lingitude_deg": 126.598198,
+            "station_elevation_m": 94.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.348499,
+            "station_lingitude_deg": 126.598198,
+            "station_elevation_m": 94.0
+        }
+    },
+    "GOS1": {
+        "EL": {
+            "station_latitude_deg": 33.300301,
+            "station_lingitude_deg": 126.209999,
+            "station_elevation_m": 84.0
+        }
+    },
+    "GOS2": {
+        "EL": {
+            "station_latitude_deg": 33.300201,
+            "station_lingitude_deg": 126.2062,
+            "station_elevation_m": 100.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.300201,
+            "station_lingitude_deg": 126.2062,
+            "station_elevation_m": 100.0
+        }
+    },
+    "GRE": {
+        "EL": {
+            "station_latitude_deg": 35.261799,
+            "station_lingitude_deg": 127.442299,
+            "station_elevation_m": 56.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.261799,
+            "station_lingitude_deg": 127.442299,
+            "station_elevation_m": 56.0
+        }
+    },
+    "GSU": {
+        "HH": {
+            "station_latitude_deg": 35.155201,
+            "station_lingitude_deg": 128.097198,
+            "station_elevation_m": 45.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.155201,
+            "station_lingitude_deg": 128.097198,
+            "station_elevation_m": 45.0
+        }
+    },
+    "GUM": {
+        "HG": {
+            "station_latitude_deg": 36.234798,
+            "station_lingitude_deg": 128.290298,
+            "station_elevation_m": 96.0
+        }
+    },
+    "GUS": {
+        "HG": {
+            "station_latitude_deg": 36.037201,
+            "station_lingitude_deg": 126.781998,
+            "station_elevation_m": 39.0
+        }
+    },
+    "GWJ": {
+        "HG": {
+            "station_latitude_deg": 35.173,
+            "station_lingitude_deg": 126.891502,
+            "station_elevation_m": 96.0
+        }
+    },
+    "GWL": {
+        "HG": {
+            "station_latitude_deg": 37.207199,
+            "station_lingitude_deg": 128.8237,
+            "station_elevation_m": 976.0
+        }
+    },
+    "GWYB": {
+        "HH": {
+            "station_latitude_deg": 34.943699,
+            "station_lingitude_deg": 127.691498,
+            "station_elevation_m": 160.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.943699,
+            "station_lingitude_deg": 127.691498,
+            "station_elevation_m": 160.0
+        }
+    },
+    "HAC": {
+        "HG": {
+            "station_latitude_deg": 35.565201,
+            "station_lingitude_deg": 128.1698,
+            "station_elevation_m": 72.0
+        }
+    },
+    "HACA": {
+        "HG": {
+            "station_latitude_deg": 35.4137,
+            "station_lingitude_deg": 128.101807,
+            "station_elevation_m": 135.0
+        }
+    },
+    "HAD": {
+        "HG": {
+            "station_latitude_deg": 35.0797,
+            "station_lingitude_deg": 127.769699,
+            "station_elevation_m": 62.0
+        },
+        "HH": {
+            "station_latitude_deg": 35.0797,
+            "station_lingitude_deg": 127.769699,
+            "station_elevation_m": 62.0
+        }
+    },
+    "HAK": {
+        "EL": {
+            "station_latitude_deg": 35.929501,
+            "station_lingitude_deg": 129.500305,
+            "station_elevation_m": 15.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.929501,
+            "station_lingitude_deg": 129.500305,
+            "station_elevation_m": 15.0
+        }
+    },
+    "HALB": {
+        "HH": {
+            "station_latitude_deg": 33.402199,
+            "station_lingitude_deg": 126.273003,
+            "station_elevation_m": 84.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.402199,
+            "station_lingitude_deg": 126.273003,
+            "station_elevation_m": 84.0
+        }
+    },
+    "HAMB": {
+        "HH": {
+            "station_latitude_deg": 35.5117,
+            "station_lingitude_deg": 127.745499,
+            "station_elevation_m": 200.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.5117,
+            "station_lingitude_deg": 127.745499,
+            "station_elevation_m": 200.0
+        }
+    },
+    "HAN": {
+        "HG": {
+            "station_latitude_deg": 34.553799,
+            "station_lingitude_deg": 126.569199,
+            "station_elevation_m": 50.0
+        }
+    },
+    "HANB": {
+        "HH": {
+            "station_latitude_deg": 34.553799,
+            "station_lingitude_deg": 126.568802,
+            "station_elevation_m": 61.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.553799,
+            "station_lingitude_deg": 126.568802,
+            "station_elevation_m": 61.0
+        }
+    },
+    "HAWB": {
+        "HH": {
+            "station_latitude_deg": 37.084301,
+            "station_lingitude_deg": 126.774002,
+            "station_elevation_m": 53.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.084301,
+            "station_lingitude_deg": 126.774002,
+            "station_elevation_m": 53.0
+        }
+    },
+    "HDB": {
+        "HH": {
+            "station_latitude_deg": 35.7337,
+            "station_lingitude_deg": 129.399002,
+            "station_elevation_m": 145.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.7337,
+            "station_lingitude_deg": 129.399002,
+            "station_elevation_m": 145.0
+        }
+    },
+    "HES": {
+        "HG": {
+            "station_latitude_deg": 37.493,
+            "station_lingitude_deg": 127.992996,
+            "station_elevation_m": 163.0
+        }
+    },
+    "HKU": {
+        "HH": {
+            "station_latitude_deg": 36.613201,
+            "station_lingitude_deg": 127.3582,
+            "station_elevation_m": 75.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.613201,
+            "station_lingitude_deg": 127.3582,
+            "station_elevation_m": 75.0
+        }
+    },
+    "HOC": {
+        "HG": {
+            "station_latitude_deg": 37.6838,
+            "station_lingitude_deg": 127.880302,
+            "station_elevation_m": 140.0
+        }
+    },
+    "HSB": {
+        "HH": {
+            "station_latitude_deg": 36.55530200000001,
+            "station_lingitude_deg": 126.636002,
+            "station_elevation_m": 64.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.55530200000001,
+            "station_lingitude_deg": 126.636002,
+            "station_elevation_m": 64.0
+        }
+    },
+    "HUK2": {
+        "EL": {
+            "station_latitude_deg": 34.687199,
+            "station_lingitude_deg": 125.450302,
+            "station_elevation_m": 138.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.687199,
+            "station_lingitude_deg": 125.450302,
+            "station_elevation_m": 138.0
+        }
+    },
+    "HWCA": {
+        "HG": {
+            "station_latitude_deg": 38.064999,
+            "station_lingitude_deg": 127.774696,
+            "station_elevation_m": 288.0
+        }
+    },
+    "HWCB": {
+        "HH": {
+            "station_latitude_deg": 38.2215,
+            "station_lingitude_deg": 127.6707,
+            "station_elevation_m": 306.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.2215,
+            "station_lingitude_deg": 127.6707,
+            "station_elevation_m": 306.0
+        }
+    },
+    "HWSB": {
+        "HH": {
+            "station_latitude_deg": 34.976799,
+            "station_lingitude_deg": 126.8993,
+            "station_elevation_m": 52.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.976799,
+            "station_lingitude_deg": 126.8993,
+            "station_elevation_m": 52.0
+        }
+    },
+    "ICN": {
+        "EL": {
+            "station_latitude_deg": 37.290699,
+            "station_lingitude_deg": 127.416702,
+            "station_elevation_m": 140.0
+        }
+    },
+    "IJA": {
+        "EL": {
+            "station_latitude_deg": 37.986698,
+            "station_lingitude_deg": 128.111206,
+            "station_elevation_m": 226.0
+        }
+    },
+    "IJAA": {
+        "HG": {
+            "station_latitude_deg": 37.947201,
+            "station_lingitude_deg": 128.32470700000002,
+            "station_elevation_m": 346.0
+        }
+    },
+    "IKSA": {
+        "HG": {
+            "station_latitude_deg": 36.0592,
+            "station_lingitude_deg": 127.061798,
+            "station_elevation_m": 81.0
+        }
+    },
+    "IMS": {
+        "HG": {
+            "station_latitude_deg": 35.612499,
+            "station_lingitude_deg": 127.285797,
+            "station_elevation_m": 285.0
+        }
+    },
+    "IMWB": {
+        "HH": {
+            "station_latitude_deg": 37.237999,
+            "station_lingitude_deg": 129.341797,
+            "station_elevation_m": 55.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.237999,
+            "station_lingitude_deg": 129.341797,
+            "station_elevation_m": 55.0
+        }
+    },
+    "INC": {
+        "HG": {
+            "station_latitude_deg": 37.477699,
+            "station_lingitude_deg": 126.623802,
+            "station_elevation_m": 91.0
+        }
+    },
+    "JAH": {
+        "HG": {
+            "station_latitude_deg": 34.688801,
+            "station_lingitude_deg": 126.919502,
+            "station_elevation_m": 81.0
+        }
+    },
+    "JAS": {
+        "HG": {
+            "station_latitude_deg": 35.6572,
+            "station_lingitude_deg": 127.520302,
+            "station_elevation_m": 447.0
+        }
+    },
+    "JDO": {
+        "EL": {
+            "station_latitude_deg": 34.473,
+            "station_lingitude_deg": 126.323799,
+            "station_elevation_m": 492.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.473,
+            "station_lingitude_deg": 126.323799,
+            "station_elevation_m": 492.0
+        }
+    },
+    "JEC": {
+        "HG": {
+            "station_latitude_deg": 37.1595,
+            "station_lingitude_deg": 128.194305,
+            "station_elevation_m": 302.0
+        }
+    },
+    "JECB": {
+        "HH": {
+            "station_latitude_deg": 37.1595,
+            "station_lingitude_deg": 128.194504,
+            "station_elevation_m": 309.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.1595,
+            "station_lingitude_deg": 128.194504,
+            "station_elevation_m": 309.0
+        }
+    },
+    "JEO2": {
+        "HH": {
+            "station_latitude_deg": 35.937801,
+            "station_lingitude_deg": 127.292801,
+            "station_elevation_m": 198.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.937801,
+            "station_lingitude_deg": 127.292801,
+            "station_elevation_m": 198.0
+        }
+    },
+    "JES": {
+        "HG": {
+            "station_latitude_deg": 37.43030200000001,
+            "station_lingitude_deg": 128.665298,
+            "station_elevation_m": 403.0
+        },
+        "HH": {
+            "station_latitude_deg": 37.43030200000001,
+            "station_lingitude_deg": 128.665298,
+            "station_elevation_m": 403.0
+        }
+    },
+    "JEU": {
+        "EL": {
+            "station_latitude_deg": 35.4935,
+            "station_lingitude_deg": 126.929802,
+            "station_elevation_m": 193.0
+        }
+    },
+    "JIN": {
+        "HG": {
+            "station_latitude_deg": 35.161499,
+            "station_lingitude_deg": 128.030197,
+            "station_elevation_m": 91.0
+        }
+    },
+    "JJB": {
+        "HH": {
+            "station_latitude_deg": 33.4515,
+            "station_lingitude_deg": 126.6558,
+            "station_elevation_m": 434.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.4515,
+            "station_lingitude_deg": 126.6558,
+            "station_elevation_m": 434.0
+        }
+    },
+    "JJU": {
+        "HH": {
+            "station_latitude_deg": 33.430698,
+            "station_lingitude_deg": 126.546303,
+            "station_elevation_m": 537.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.430698,
+            "station_lingitude_deg": 126.546303,
+            "station_elevation_m": 537.0
+        }
+    },
+    "JMJ": {
+        "EL": {
+            "station_latitude_deg": 37.881699,
+            "station_lingitude_deg": 128.756195,
+            "station_elevation_m": 81.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.881699,
+            "station_lingitude_deg": 128.756195,
+            "station_elevation_m": 81.0
+        }
+    },
+    "JNPA": {
+        "HG": {
+            "station_latitude_deg": 36.7957,
+            "station_lingitude_deg": 127.561996,
+            "station_elevation_m": 126.0
+        }
+    },
+    "JRB": {
+        "HH": {
+            "station_latitude_deg": 35.212799,
+            "station_lingitude_deg": 127.640297,
+            "station_elevation_m": 60.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.212799,
+            "station_lingitude_deg": 127.640297,
+            "station_elevation_m": 60.0
+        }
+    },
+    "JSB": {
+        "HH": {
+            "station_latitude_deg": 37.317501,
+            "station_lingitude_deg": 128.685303,
+            "station_elevation_m": 322.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.317501,
+            "station_lingitude_deg": 128.685303,
+            "station_elevation_m": 322.0
+        }
+    },
+    "JUR": {
+        "HG": {
+            "station_latitude_deg": 37.613499,
+            "station_lingitude_deg": 127.088303,
+            "station_elevation_m": 102.0
+        }
+    },
+    "KAW": {
+        "HG": {
+            "station_latitude_deg": 37.805199,
+            "station_lingitude_deg": 128.854797,
+            "station_elevation_m": 118.0
+        }
+    },
+    "KCH": {
+        "EL": {
+            "station_latitude_deg": 35.61399799999999,
+            "station_lingitude_deg": 127.9188,
+            "station_elevation_m": 432.0
+        }
+    },
+    "KJM": {
+        "EL": {
+            "station_latitude_deg": 34.833698,
+            "station_lingitude_deg": 128.593002,
+            "station_elevation_m": 7.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.833698,
+            "station_lingitude_deg": 128.593002,
+            "station_elevation_m": 7.0
+        }
+    },
+    "KMC": {
+        "EL": {
+            "station_latitude_deg": 35.986999999999995,
+            "station_lingitude_deg": 127.942703,
+            "station_elevation_m": 262.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.986999999999995,
+            "station_lingitude_deg": 127.942703,
+            "station_elevation_m": 262.0
+        }
+    },
+    "KMSA": {
+        "HG": {
+            "station_latitude_deg": 36.105801,
+            "station_lingitude_deg": 127.481697,
+            "station_elevation_m": 221.0
+        }
+    },
+    "KNUD": {
+        "HH": {
+            "station_latitude_deg": 37.2257,
+            "station_lingitude_deg": 129.097702,
+            "station_elevation_m": 861.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.2257,
+            "station_lingitude_deg": 129.097702,
+            "station_elevation_m": 861.0
+        }
+    },
+    "KOHB": {
+        "HH": {
+            "station_latitude_deg": 34.6185,
+            "station_lingitude_deg": 127.275803,
+            "station_elevation_m": 103.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.6185,
+            "station_lingitude_deg": 127.275803,
+            "station_elevation_m": 103.0
+        }
+    },
+    "KOJ2": {
+        "EL": {
+            "station_latitude_deg": 36.470798,
+            "station_lingitude_deg": 127.144699,
+            "station_elevation_m": 102.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.470798,
+            "station_lingitude_deg": 127.144699,
+            "station_elevation_m": 102.0
+        }
+    },
+    "KSA": {
+        "HH": {
+            "station_latitude_deg": 38.595299,
+            "station_lingitude_deg": 128.3517,
+            "station_elevation_m": 105.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.595299,
+            "station_lingitude_deg": 128.3517,
+            "station_elevation_m": 105.0
+        }
+    },
+    "KUJA": {
+        "HG": {
+            "station_latitude_deg": 34.8885,
+            "station_lingitude_deg": 128.604706,
+            "station_elevation_m": 96.0
+        }
+    },
+    "KWJ": {
+        "HH": {
+            "station_latitude_deg": 35.159801,
+            "station_lingitude_deg": 126.991203,
+            "station_elevation_m": 213.0
+        }
+    },
+    "KWJ2": {
+        "HH": {
+            "station_latitude_deg": 35.159801,
+            "station_lingitude_deg": 126.991203,
+            "station_elevation_m": 238.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.159801,
+            "station_lingitude_deg": 126.991203,
+            "station_elevation_m": 238.0
+        }
+    },
+    "KWJU": {
+        "HH": {
+            "station_latitude_deg": 35.159801,
+            "station_lingitude_deg": 126.991203,
+            "station_elevation_m": 249.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.159801,
+            "station_lingitude_deg": 126.991203,
+            "station_elevation_m": 249.0
+        }
+    },
+    "MAK": {
+        "EL": {
+            "station_latitude_deg": 35.370201,
+            "station_lingitude_deg": 129.176498,
+            "station_elevation_m": 175.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.370201,
+            "station_lingitude_deg": 129.176498,
+            "station_elevation_m": 175.0
+        }
+    },
+    "MAN": {
+        "HG": {
+            "station_latitude_deg": 35.0938,
+            "station_lingitude_deg": 126.284798,
+            "station_elevation_m": 55.0
+        }
+    },
+    "MAS": {
+        "EL": {
+            "station_latitude_deg": 35.1703,
+            "station_lingitude_deg": 128.572205,
+            "station_elevation_m": 78.0
+        }
+    },
+    "MGB": {
+        "HG": {
+            "station_latitude_deg": 36.640202,
+            "station_lingitude_deg": 128.214706,
+            "station_elevation_m": 94.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.640202,
+            "station_lingitude_deg": 128.214706,
+            "station_elevation_m": 94.0
+        }
+    },
+    "MGY": {
+        "EL": {
+            "station_latitude_deg": 36.655201,
+            "station_lingitude_deg": 128.060806,
+            "station_elevation_m": 196.0
+        }
+    },
+    "MIYA": {
+        "HG": {
+            "station_latitude_deg": 35.491699,
+            "station_lingitude_deg": 128.744293,
+            "station_elevation_m": 59.0
+        }
+    },
+    "MKL": {
+        "HH": {
+            "station_latitude_deg": 35.732201,
+            "station_lingitude_deg": 129.242004,
+            "station_elevation_m": 186.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.732201,
+            "station_lingitude_deg": 129.242004,
+            "station_elevation_m": 186.0
+        }
+    },
+    "MND": {
+        "HH": {
+            "station_latitude_deg": 35.804298,
+            "station_lingitude_deg": 126.424202,
+            "station_elevation_m": 55.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.804298,
+            "station_lingitude_deg": 126.424202,
+            "station_elevation_m": 55.0
+        }
+    },
+    "MOK": {
+        "EL": {
+            "station_latitude_deg": 34.765701,
+            "station_lingitude_deg": 126.737801,
+            "station_elevation_m": 149.0
+        }
+    },
+    "MOP": {
+        "HG": {
+            "station_latitude_deg": 34.816799,
+            "station_lingitude_deg": 126.380798,
+            "station_elevation_m": 73.0
+        }
+    },
+    "MRD": {
+        "HH": {
+            "station_latitude_deg": 33.116699,
+            "station_lingitude_deg": 126.265999,
+            "station_elevation_m": 57.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.116699,
+            "station_lingitude_deg": 126.265999,
+            "station_elevation_m": 57.0
+        }
+    },
+    "MUN": {
+        "EL": {
+            "station_latitude_deg": 34.910301000000004,
+            "station_lingitude_deg": 126.4263,
+            "station_elevation_m": 8.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.910301000000004,
+            "station_lingitude_deg": 126.4263,
+            "station_elevation_m": 8.0
+        }
+    },
+    "MUS": {
+        "EL": {
+            "station_latitude_deg": 37.8862,
+            "station_lingitude_deg": 126.765701,
+            "station_elevation_m": 42.0
+        }
+    },
+    "NAH": {
+        "HG": {
+            "station_latitude_deg": 34.8167,
+            "station_lingitude_deg": 127.926201,
+            "station_elevation_m": 103.0
+        },
+        "HH": {
+            "station_latitude_deg": 34.8167,
+            "station_lingitude_deg": 127.926201,
+            "station_elevation_m": 103.0
+        }
+    },
+    "NAJ": {
+        "HG": {
+            "station_latitude_deg": 35.026199,
+            "station_lingitude_deg": 126.8265,
+            "station_elevation_m": 70.0
+        },
+        "HH": {
+            "station_latitude_deg": 35.026199,
+            "station_lingitude_deg": 126.8265,
+            "station_elevation_m": 70.0
+        }
+    },
+    "NAWB": {
+        "HH": {
+            "station_latitude_deg": 35.421299,
+            "station_lingitude_deg": 127.396301,
+            "station_elevation_m": 178.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.421299,
+            "station_lingitude_deg": 127.396301,
+            "station_elevation_m": 178.0
+        }
+    },
+    "NOW": {
+        "HG": {
+            "station_latitude_deg": 37.686298,
+            "station_lingitude_deg": 127.069298,
+            "station_elevation_m": 144.0
+        }
+    },
+    "NPR": {
+        "HH": {
+            "station_latitude_deg": 36.0425,
+            "station_lingitude_deg": 126.866302,
+            "station_elevation_m": 25.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.0425,
+            "station_lingitude_deg": 126.866302,
+            "station_elevation_m": 25.0
+        }
+    },
+    "OKCB": {
+        "HH": {
+            "station_latitude_deg": 36.347801,
+            "station_lingitude_deg": 127.7957,
+            "station_elevation_m": 161.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.347801,
+            "station_lingitude_deg": 127.7957,
+            "station_elevation_m": 161.0
+        }
+    },
+    "OKEB": {
+        "HH": {
+            "station_latitude_deg": 37.6208,
+            "station_lingitude_deg": 128.98019399999998,
+            "station_elevation_m": 92.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.6208,
+            "station_lingitude_deg": 128.98019399999998,
+            "station_elevation_m": 92.0
+        }
+    },
+    "OYDB": {
+        "HH": {
+            "station_latitude_deg": 36.229301,
+            "station_lingitude_deg": 126.075699,
+            "station_elevation_m": 95.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.229301,
+            "station_lingitude_deg": 126.075699,
+            "station_elevation_m": 95.0
+        }
+    },
+    "PCH": {
+        "EL": {
+            "station_latitude_deg": 37.9645,
+            "station_lingitude_deg": 127.132004,
+            "station_elevation_m": 132.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.9645,
+            "station_lingitude_deg": 127.132004,
+            "station_elevation_m": 132.0
+        }
+    },
+    "PHA2": {
+        "EL": {
+            "station_latitude_deg": 36.193001,
+            "station_lingitude_deg": 129.370804,
+            "station_elevation_m": 73.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.193001,
+            "station_lingitude_deg": 129.370804,
+            "station_elevation_m": 73.0
+        }
+    },
+    "PORA": {
+        "HG": {
+            "station_latitude_deg": 36.327801,
+            "station_lingitude_deg": 126.557503,
+            "station_elevation_m": 68.0
+        }
+    },
+    "PTK": {
+        "HG": {
+            "station_latitude_deg": 36.985802,
+            "station_lingitude_deg": 127.107697,
+            "station_elevation_m": 39.0
+        }
+    },
+    "PUA": {
+        "HG": {
+            "station_latitude_deg": 35.729801,
+            "station_lingitude_deg": 126.716698,
+            "station_elevation_m": 50.0
+        }
+    },
+    "PYC": {
+        "HG": {
+            "station_latitude_deg": 37.3713,
+            "station_lingitude_deg": 128.390701,
+            "station_elevation_m": 347.0
+        }
+    },
+    "PYCA": {
+        "HG": {
+            "station_latitude_deg": 37.562,
+            "station_lingitude_deg": 128.37780800000002,
+            "station_elevation_m": 577.0
+        }
+    },
+    "SAC": {
+        "HG": {
+            "station_latitude_deg": 35.4132,
+            "station_lingitude_deg": 127.878799,
+            "station_elevation_m": 178.0
+        }
+    },
+    "SAJ": {
+        "HG": {
+            "station_latitude_deg": 36.407799,
+            "station_lingitude_deg": 128.1577,
+            "station_elevation_m": 144.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.407799,
+            "station_lingitude_deg": 128.1577,
+            "station_elevation_m": 144.0
+        }
+    },
+    "SCH": {
+        "HG": {
+            "station_latitude_deg": 35.064999,
+            "station_lingitude_deg": 127.2407,
+            "station_elevation_m": 157.0
+        }
+    },
+    "SEHB": {
+        "HH": {
+            "station_latitude_deg": 38.2687,
+            "station_lingitude_deg": 128.252502,
+            "station_elevation_m": 406.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.2687,
+            "station_lingitude_deg": 128.252502,
+            "station_elevation_m": 406.0
+        }
+    },
+    "SEO2": {
+        "HH": {
+            "station_latitude_deg": 37.493801,
+            "station_lingitude_deg": 126.917198,
+            "station_elevation_m": 114.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.493801,
+            "station_lingitude_deg": 126.917198,
+            "station_elevation_m": 114.0
+        }
+    },
+    "SES2": {
+        "HH": {
+            "station_latitude_deg": 36.789299,
+            "station_lingitude_deg": 126.453201,
+            "station_elevation_m": 125.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.789299,
+            "station_lingitude_deg": 126.453201,
+            "station_elevation_m": 125.0
+        }
+    },
+    "SGP": {
+        "EL": {
+            "station_latitude_deg": 33.258701,
+            "station_lingitude_deg": 126.499298,
+            "station_elevation_m": 218.0
+        }
+    },
+    "SHHB": {
+        "HH": {
+            "station_latitude_deg": 37.348801,
+            "station_lingitude_deg": 126.703796,
+            "station_elevation_m": 49.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.348801,
+            "station_lingitude_deg": 126.703796,
+            "station_elevation_m": 49.0
+        }
+    },
+    "SKC": {
+        "EL": {
+            "station_latitude_deg": 38.289799,
+            "station_lingitude_deg": 128.521805,
+            "station_elevation_m": 55.0
+        }
+    },
+    "SMKB": {
+        "HH": {
+            "station_latitude_deg": 35.68920100000001,
+            "station_lingitude_deg": 126.556198,
+            "station_elevation_m": 57.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.68920100000001,
+            "station_lingitude_deg": 126.556198,
+            "station_elevation_m": 57.0
+        }
+    },
+    "SND": {
+        "HH": {
+            "station_latitude_deg": 37.157799,
+            "station_lingitude_deg": 128.79620400000002,
+            "station_elevation_m": 779.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.157799,
+            "station_lingitude_deg": 128.79620400000002,
+            "station_elevation_m": 779.0
+        }
+    },
+    "SNU": {
+        "HH": {
+            "station_latitude_deg": 37.453701,
+            "station_lingitude_deg": 126.954498,
+            "station_elevation_m": 170.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.453701,
+            "station_lingitude_deg": 126.954498,
+            "station_elevation_m": 170.0
+        }
+    },
+    "SOD": {
+        "HG": {
+            "station_latitude_deg": 37.571301,
+            "station_lingitude_deg": 126.966202,
+            "station_elevation_m": 115.0
+        },
+        "HH": {
+            "station_latitude_deg": 37.571301,
+            "station_lingitude_deg": 126.966202,
+            "station_elevation_m": 115.0
+        }
+    },
+    "SSP": {
+        "HG": {
+            "station_latitude_deg": 37.493801,
+            "station_lingitude_deg": 126.917198,
+            "station_elevation_m": 114.0
+        }
+    },
+    "SUCA": {
+        "HG": {
+            "station_latitude_deg": 35.373699,
+            "station_lingitude_deg": 127.138702,
+            "station_elevation_m": 146.0
+        }
+    },
+    "SWO": {
+        "EL": {
+            "station_latitude_deg": 37.2808,
+            "station_lingitude_deg": 126.9823,
+            "station_elevation_m": 88.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.2808,
+            "station_lingitude_deg": 126.9823,
+            "station_elevation_m": 88.0
+        }
+    },
+    "TBA": {
+        "EL": {
+            "station_latitude_deg": 37.1227,
+            "station_lingitude_deg": 128.952301,
+            "station_elevation_m": 805.0
+        }
+    },
+    "TEJ": {
+        "HG": {
+            "station_latitude_deg": 36.372501,
+            "station_lingitude_deg": 127.371201,
+            "station_elevation_m": 95.0
+        }
+    },
+    "TJN": {
+        "HH": {
+            "station_latitude_deg": 36.380501,
+            "station_lingitude_deg": 127.361702,
+            "station_elevation_m": 86.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.380501,
+            "station_lingitude_deg": 127.361702,
+            "station_elevation_m": 86.0
+        }
+    },
+    "TOH": {
+        "HG": {
+            "station_latitude_deg": 37.507,
+            "station_lingitude_deg": 129.123795,
+            "station_elevation_m": 78.0
+        }
+    },
+    "TOY": {
+        "EL": {
+            "station_latitude_deg": 34.8452,
+            "station_lingitude_deg": 128.436203,
+            "station_elevation_m": 51.0
+        }
+    },
+    "UJN": {
+        "HG": {
+            "station_latitude_deg": 36.992001,
+            "station_lingitude_deg": 129.412994,
+            "station_elevation_m": 84.0
+        }
+    },
+    "ULDB": {
+        "HH": {
+            "station_latitude_deg": 37.480801,
+            "station_lingitude_deg": 130.898697,
+            "station_elevation_m": 236.0
+        }
+    },
+    "ULJ2": {
+        "HH": {
+            "station_latitude_deg": 36.702202,
+            "station_lingitude_deg": 129.40829499999998,
+            "station_elevation_m": 122.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.702202,
+            "station_lingitude_deg": 129.40829499999998,
+            "station_elevation_m": 122.0
+        }
+    },
+    "USN": {
+        "EL": {
+            "station_latitude_deg": 35.702301,
+            "station_lingitude_deg": 129.123199,
+            "station_elevation_m": 241.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.702301,
+            "station_lingitude_deg": 129.123199,
+            "station_elevation_m": 241.0
+        }
+    },
+    "WAN": {
+        "EL": {
+            "station_latitude_deg": 34.395802,
+            "station_lingitude_deg": 126.701797,
+            "station_elevation_m": 50.0
+        }
+    },
+    "WAN2": {
+        "EL": {
+            "station_latitude_deg": 34.395802,
+            "station_lingitude_deg": 126.701797,
+            "station_elevation_m": 83.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.395802,
+            "station_lingitude_deg": 126.701797,
+            "station_elevation_m": 83.0
+        }
+    },
+    "WID": {
+        "EL": {
+            "station_latitude_deg": 35.619499,
+            "station_lingitude_deg": 126.305702,
+            "station_elevation_m": 50.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.619499,
+            "station_lingitude_deg": 126.305702,
+            "station_elevation_m": 50.0
+        }
+    },
+    "YAPA": {
+        "HG": {
+            "station_latitude_deg": 37.488998,
+            "station_lingitude_deg": 127.494202,
+            "station_elevation_m": 93.0
+        }
+    },
+    "YAY": {
+        "HG": {
+            "station_latitude_deg": 38.019501,
+            "station_lingitude_deg": 128.723206,
+            "station_elevation_m": 44.0
+        }
+    },
+    "YAYA": {
+        "HG": {
+            "station_latitude_deg": 38.143799,
+            "station_lingitude_deg": 128.60249299999998,
+            "station_elevation_m": 61.0
+        }
+    },
+    "YCH": {
+        "HG": {
+            "station_latitude_deg": 36.6297,
+            "station_lingitude_deg": 128.425797,
+            "station_elevation_m": 118.0
+        }
+    },
+    "YEG": {
+        "HG": {
+            "station_latitude_deg": 35.283699,
+            "station_lingitude_deg": 126.477203,
+            "station_elevation_m": 73.0
+        }
+    },
+    "YES": {
+        "HG": {
+            "station_latitude_deg": 34.739498,
+            "station_lingitude_deg": 127.740501,
+            "station_elevation_m": 109.0
+        }
+    },
+    "YIN": {
+        "EL": {
+            "station_latitude_deg": 37.157299,
+            "station_lingitude_deg": 127.397797,
+            "station_elevation_m": 121.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.157299,
+            "station_lingitude_deg": 127.397797,
+            "station_elevation_m": 121.0
+        }
+    },
+    "YJD": {
+        "HG": {
+            "station_latitude_deg": 37.480301,
+            "station_lingitude_deg": 126.448502,
+            "station_elevation_m": 33.0
+        }
+    },
+    "YKB": {
+        "HH": {
+            "station_latitude_deg": 38.2253,
+            "station_lingitude_deg": 127.990303,
+            "station_elevation_m": 303.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.2253,
+            "station_lingitude_deg": 127.990303,
+            "station_elevation_m": 303.0
+        }
+    },
+    "YKDB": {
+        "HH": {
+            "station_latitude_deg": 34.622299,
+            "station_lingitude_deg": 128.2733,
+            "station_elevation_m": 133.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.622299,
+            "station_lingitude_deg": 128.2733,
+            "station_elevation_m": 133.0
+        }
+    },
+    "YNCB": {
+        "HH": {
+            "station_latitude_deg": 38.039799,
+            "station_lingitude_deg": 126.925797,
+            "station_elevation_m": 72.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.039799,
+            "station_lingitude_deg": 126.925797,
+            "station_elevation_m": 72.0
+        }
+    },
+    "YNDB": {
+        "HH": {
+            "station_latitude_deg": 34.432301,
+            "station_lingitude_deg": 127.801201,
+            "station_elevation_m": 49.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.432301,
+            "station_lingitude_deg": 127.801201,
+            "station_elevation_m": 49.0
+        }
+    },
+    "YOC": {
+        "HG": {
+            "station_latitude_deg": 35.977299,
+            "station_lingitude_deg": 128.951202,
+            "station_elevation_m": 136.0
+        }
+    },
+    "YOCB": {
+        "HH": {
+            "station_latitude_deg": 35.9772,
+            "station_lingitude_deg": 128.951202,
+            "station_elevation_m": 143.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.9772,
+            "station_lingitude_deg": 128.951202,
+            "station_elevation_m": 143.0
+        }
+    },
+    "YOD": {
+        "HG": {
+            "station_latitude_deg": 36.533199,
+            "station_lingitude_deg": 129.409302,
+            "station_elevation_m": 81.0
+        }
+    },
+    "YODB": {
+        "HH": {
+            "station_latitude_deg": 36.533298,
+            "station_lingitude_deg": 129.4095,
+            "station_elevation_m": 92.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.533298,
+            "station_lingitude_deg": 129.4095,
+            "station_elevation_m": 92.0
+        }
+    },
+    "YOJB": {
+        "HG": {
+            "station_latitude_deg": 36.872002,
+            "station_lingitude_deg": 128.516693,
+            "station_elevation_m": 259.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.872002,
+            "station_lingitude_deg": 128.516693,
+            "station_elevation_m": 259.0
+        }
+    },
+    "YOW": {
+        "EL": {
+            "station_latitude_deg": 37.181198,
+            "station_lingitude_deg": 128.457001,
+            "station_elevation_m": 275.0
+        }
+    },
+    "YPD": {
+        "EL": {
+            "station_latitude_deg": 37.661499,
+            "station_lingitude_deg": 125.698997,
+            "station_elevation_m": 20.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.661499,
+            "station_lingitude_deg": 125.698997,
+            "station_elevation_m": 20.0
+        }
+    },
+    "YPDB": {
+        "HH": {
+            "station_latitude_deg": 37.608002,
+            "station_lingitude_deg": 125.710197,
+            "station_elevation_m": 93.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.608002,
+            "station_lingitude_deg": 125.710197,
+            "station_elevation_m": 93.0
+        }
+    },
+    "YSB": {
+        "HH": {
+            "station_latitude_deg": 35.468201,
+            "station_lingitude_deg": 129.080002,
+            "station_elevation_m": 75.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.468201,
+            "station_lingitude_deg": 129.080002,
+            "station_elevation_m": 75.0
+        }
+    },
+    "YSU": {
+        "EL": {
+            "station_latitude_deg": 35.102699,
+            "station_lingitude_deg": 127.596802,
+            "station_elevation_m": 557.0
+        }
+    },
+    "BRN": {
+        "HG": {
+            "station_latitude_deg": 37.971199,
+            "station_lingitude_deg": 124.635201,
+            "station_elevation_m": 60.0
+        }
+    },
+    "BRS": {
+        "HG": {
+            "station_latitude_deg": 37.917198,
+            "station_lingitude_deg": 124.690002,
+            "station_elevation_m": 38.0
+        }
+    },
+    "EUS": {
+        "HG": {
+            "station_latitude_deg": 36.3563,
+            "station_lingitude_deg": 128.688705,
+            "station_elevation_m": 121.0
+        }
+    },
+    "WJU2": {
+        "EL": {
+            "station_latitude_deg": 37.403301,
+            "station_lingitude_deg": 128.052704,
+            "station_elevation_m": 423.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.403301,
+            "station_lingitude_deg": 128.052704,
+            "station_elevation_m": 423.0
+        }
+    },
+    "YOJ": {
+        "HG": {
+            "station_latitude_deg": 36.871799,
+            "station_lingitude_deg": 128.516693,
+            "station_elevation_m": 250.0
+        }
+    },
+    "CPR2": {
+        "EL": {
+            "station_latitude_deg": 36.221001,
+            "station_lingitude_deg": 127.971802,
+            "station_elevation_m": 287.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.221001,
+            "station_lingitude_deg": 127.971802,
+            "station_elevation_m": 287.0
+        }
+    },
+    "CWO2": {
+        "EL": {
+            "station_latitude_deg": 38.083302,
+            "station_lingitude_deg": 127.5205,
+            "station_elevation_m": 377.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.083302,
+            "station_lingitude_deg": 127.5205,
+            "station_elevation_m": 377.0
+        }
+    },
+    "KCH2": {
+        "EL": {
+            "station_latitude_deg": 35.61399799999999,
+            "station_lingitude_deg": 127.9188,
+            "station_elevation_m": 442.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.61399799999999,
+            "station_lingitude_deg": 127.9188,
+            "station_elevation_m": 442.0
+        }
+    },
+    "MAS2": {
+        "EL": {
+            "station_latitude_deg": 35.1703,
+            "station_lingitude_deg": 128.572205,
+            "station_elevation_m": 86.0
+        }
+    },
+    "SKC2": {
+        "EL": {
+            "station_latitude_deg": 38.289799,
+            "station_lingitude_deg": 128.521805,
+            "station_elevation_m": 59.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.289799,
+            "station_lingitude_deg": 128.521805,
+            "station_elevation_m": 59.0
+        }
+    },
+    "USN2": {
+        "EL": {
+            "station_latitude_deg": 35.702301,
+            "station_lingitude_deg": 129.123199,
+            "station_elevation_m": 250.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.702301,
+            "station_lingitude_deg": 129.123199,
+            "station_elevation_m": 250.0
+        }
+    },
+    "YOW2": {
+        "EL": {
+            "station_latitude_deg": 37.181198,
+            "station_lingitude_deg": 128.456802,
+            "station_elevation_m": 281.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.181198,
+            "station_lingitude_deg": 128.456802,
+            "station_elevation_m": 281.0
+        }
+    },
+    "BAU": {
+        "EL": {
+            "station_latitude_deg": 35.102699,
+            "station_lingitude_deg": 127.596802,
+            "station_elevation_m": 562.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.102699,
+            "station_lingitude_deg": 127.596802,
+            "station_elevation_m": 562.0
+        }
+    },
+    "BGDB": {
+        "HH": {
+            "station_latitude_deg": 34.772701,
+            "station_lingitude_deg": 125.9468,
+            "station_elevation_m": 38.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.772701,
+            "station_lingitude_deg": 125.9468,
+            "station_elevation_m": 38.0
+        }
+    },
+    "BURB": {
+        "HH": {
+            "station_latitude_deg": 37.231701,
+            "station_lingitude_deg": 127.748703,
+            "station_elevation_m": 88.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.231701,
+            "station_lingitude_deg": 127.748703,
+            "station_elevation_m": 88.0
+        }
+    },
+    "CEJA": {
+        "HG": {
+            "station_latitude_deg": 36.639801,
+            "station_lingitude_deg": 127.440697,
+            "station_elevation_m": 102.0
+        }
+    },
+    "CIGB": {
+        "HH": {
+            "station_latitude_deg": 36.039799,
+            "station_lingitude_deg": 128.381302,
+            "station_elevation_m": 74.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.039799,
+            "station_lingitude_deg": 128.381302,
+            "station_elevation_m": 74.0
+        }
+    },
+    "DDCA": {
+        "HG": {
+            "station_latitude_deg": 37.902199,
+            "station_lingitude_deg": 127.060997,
+            "station_elevation_m": 162.0
+        }
+    },
+    "DUSB": {
+        "HH": {
+            "station_latitude_deg": 35.894299,
+            "station_lingitude_deg": 127.773201,
+            "station_elevation_m": 698.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.894299,
+            "station_lingitude_deg": 127.773201,
+            "station_elevation_m": 698.0
+        }
+    },
+    "HCNA": {
+        "HG": {
+            "station_latitude_deg": 35.565201,
+            "station_lingitude_deg": 128.169998,
+            "station_elevation_m": 75.0
+        }
+    },
+    "IMSA": {
+        "HG": {
+            "station_latitude_deg": 35.612499,
+            "station_lingitude_deg": 127.285301,
+            "station_elevation_m": 290.0
+        }
+    },
+    "INCA": {
+        "HG": {
+            "station_latitude_deg": 37.477798,
+            "station_lingitude_deg": 126.624001,
+            "station_elevation_m": 111.0
+        }
+    },
+    "JINA": {
+        "HG": {
+            "station_latitude_deg": 35.1642,
+            "station_lingitude_deg": 128.040207,
+            "station_elevation_m": 81.0
+        }
+    },
+    "PUAA": {
+        "HG": {
+            "station_latitude_deg": 35.729698,
+            "station_lingitude_deg": 126.716797,
+            "station_elevation_m": 49.0
+        }
+    },
+    "SCHA": {
+        "HG": {
+            "station_latitude_deg": 35.019798,
+            "station_lingitude_deg": 127.369202,
+            "station_elevation_m": 193.0
+        }
+    },
+    "TOHA": {
+        "HG": {
+            "station_latitude_deg": 37.507,
+            "station_lingitude_deg": 129.123795,
+            "station_elevation_m": 86.0
+        }
+    },
+    "YESA": {
+        "HG": {
+            "station_latitude_deg": 34.7397,
+            "station_lingitude_deg": 127.740501,
+            "station_elevation_m": 111.0
+        }
+    },
+    "YEYB": {
+        "HH": {
+            "station_latitude_deg": 36.625198,
+            "station_lingitude_deg": 129.087997,
+            "station_elevation_m": 270.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.625198,
+            "station_lingitude_deg": 129.087997,
+            "station_elevation_m": 270.0
+        }
+    },
+    "YOA": {
+        "EL": {
+            "station_latitude_deg": 34.765499,
+            "station_lingitude_deg": 126.737801,
+            "station_elevation_m": 151.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.765499,
+            "station_lingitude_deg": 126.737801,
+            "station_elevation_m": 151.0
+        }
+    },
+    "YSAB": {
+        "HH": {
+            "station_latitude_deg": 36.742199,
+            "station_lingitude_deg": 126.815697,
+            "station_elevation_m": 71.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.742199,
+            "station_lingitude_deg": 126.815697,
+            "station_elevation_m": 71.0
+        }
+    },
+    "GSG": {
+        "HG": {
+            "station_latitude_deg": 37.548302,
+            "station_lingitude_deg": 126.844704,
+            "station_elevation_m": 77.0
+        }
+    },
+    "ANMA": {
+        "HG": {
+            "station_latitude_deg": 36.5387,
+            "station_lingitude_deg": 126.330002,
+            "station_elevation_m": 42.0
+        }
+    },
+    "BAR2": {
+        "HH": {
+            "station_latitude_deg": 37.9772,
+            "station_lingitude_deg": 124.714203,
+            "station_elevation_m": 98.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.9772,
+            "station_lingitude_deg": 124.714203,
+            "station_elevation_m": 98.0
+        }
+    },
+    "CSDB": {
+        "HH": {
+            "station_latitude_deg": 34.180801,
+            "station_lingitude_deg": 126.895302,
+            "station_elevation_m": 24.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.180801,
+            "station_lingitude_deg": 126.895302,
+            "station_elevation_m": 24.0
+        }
+    },
+    "GDDB": {
+        "HH": {
+            "station_latitude_deg": 34.993,
+            "station_lingitude_deg": 128.831299,
+            "station_elevation_m": 120.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.993,
+            "station_lingitude_deg": 128.831299,
+            "station_elevation_m": 120.0
+        }
+    },
+    "GUWB": {
+        "HG": {
+            "station_latitude_deg": 36.181301,
+            "station_lingitude_deg": 128.592697,
+            "station_elevation_m": 93.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.181301,
+            "station_lingitude_deg": 128.592697,
+            "station_elevation_m": 93.0
+        }
+    },
+    "HOCA": {
+        "HG": {
+            "station_latitude_deg": 37.683701,
+            "station_lingitude_deg": 127.880203,
+            "station_elevation_m": 144.0
+        }
+    },
+    "ICN2": {
+        "EL": {
+            "station_latitude_deg": 37.290798,
+            "station_lingitude_deg": 127.416702,
+            "station_elevation_m": 180.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.290798,
+            "station_lingitude_deg": 127.416702,
+            "station_elevation_m": 180.0
+        }
+    },
+    "IJA2": {
+        "EL": {
+            "station_latitude_deg": 37.9865,
+            "station_lingitude_deg": 128.111206,
+            "station_elevation_m": 217.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.9865,
+            "station_lingitude_deg": 128.111206,
+            "station_elevation_m": 217.0
+        }
+    },
+    "JAHA": {
+        "HG": {
+            "station_latitude_deg": 34.688702,
+            "station_lingitude_deg": 126.919502,
+            "station_elevation_m": 48.0
+        }
+    },
+    "JASA": {
+        "HG": {
+            "station_latitude_deg": 35.657001,
+            "station_lingitude_deg": 127.520302,
+            "station_elevation_m": 408.0
+        }
+    },
+    "JEJB": {
+        "HG": {
+            "station_latitude_deg": 35.637798,
+            "station_lingitude_deg": 129.440796,
+            "station_elevation_m": 10.0
+        },
+        "HH": {
+            "station_latitude_deg": 35.637798,
+            "station_lingitude_deg": 129.440796,
+            "station_elevation_m": 10.0
+        }
+    },
+    "JEU2": {
+        "EL": {
+            "station_latitude_deg": 35.493301,
+            "station_lingitude_deg": 126.929703,
+            "station_elevation_m": 171.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.493301,
+            "station_lingitude_deg": 126.929703,
+            "station_elevation_m": 171.0
+        }
+    },
+    "JJU2": {
+        "HH": {
+            "station_latitude_deg": 33.429298,
+            "station_lingitude_deg": 126.546303,
+            "station_elevation_m": 525.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.429298,
+            "station_lingitude_deg": 126.546303,
+            "station_elevation_m": 525.0
+        }
+    },
+    "KAWA": {
+        "HG": {
+            "station_latitude_deg": 37.804298,
+            "station_lingitude_deg": 128.854706,
+            "station_elevation_m": 135.0
+        }
+    },
+    "MGY2": {
+        "EL": {
+            "station_latitude_deg": 36.653801,
+            "station_lingitude_deg": 128.060806,
+            "station_elevation_m": 217.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.653801,
+            "station_lingitude_deg": 128.060806,
+            "station_elevation_m": 217.0
+        }
+    },
+    "MUS2": {
+        "EL": {
+            "station_latitude_deg": 37.885502,
+            "station_lingitude_deg": 126.765701,
+            "station_elevation_m": 24.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.885502,
+            "station_lingitude_deg": 126.765701,
+            "station_elevation_m": 24.0
+        }
+    },
+    "SACA": {
+        "HG": {
+            "station_latitude_deg": 35.4132,
+            "station_lingitude_deg": 127.878998,
+            "station_elevation_m": 130.0
+        }
+    },
+    "SGP2": {
+        "HH": {
+            "station_latitude_deg": 33.258701,
+            "station_lingitude_deg": 126.498299,
+            "station_elevation_m": 238.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.258701,
+            "station_lingitude_deg": 126.498299,
+            "station_elevation_m": 238.0
+        }
+    },
+    "TANB": {
+        "HH": {
+            "station_latitude_deg": 36.673199,
+            "station_lingitude_deg": 126.1353,
+            "station_elevation_m": 50.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.673199,
+            "station_lingitude_deg": 126.1353,
+            "station_elevation_m": 50.0
+        }
+    },
+    "TBA2": {
+        "EL": {
+            "station_latitude_deg": 37.122501,
+            "station_lingitude_deg": 128.952301,
+            "station_elevation_m": 855.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.122501,
+            "station_lingitude_deg": 128.952301,
+            "station_elevation_m": 855.0
+        }
+    },
+    "TEJ2": {
+        "HG": {
+            "station_latitude_deg": 36.3722,
+            "station_lingitude_deg": 127.3713,
+            "station_elevation_m": 73.0
+        }
+    },
+    "TOY2": {
+        "EL": {
+            "station_latitude_deg": 34.8452,
+            "station_lingitude_deg": 128.436203,
+            "station_elevation_m": 80.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.8452,
+            "station_lingitude_deg": 128.436203,
+            "station_elevation_m": 80.0
+        }
+    },
+    "UDO": {
+        "HH": {
+            "station_latitude_deg": 33.5228,
+            "station_lingitude_deg": 126.954002,
+            "station_elevation_m": 79.0
+        },
+        "HG": {
+            "station_latitude_deg": 33.5228,
+            "station_lingitude_deg": 126.954002,
+            "station_elevation_m": 79.0
+        }
+    },
+    "YINB": {
+        "HH": {
+            "station_latitude_deg": 37.271,
+            "station_lingitude_deg": 127.226501,
+            "station_elevation_m": 88.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.271,
+            "station_lingitude_deg": 127.226501,
+            "station_elevation_m": 88.0
+        }
+    },
+    "YJD2": {
+        "HG": {
+            "station_latitude_deg": 37.480202,
+            "station_lingitude_deg": 126.439499,
+            "station_elevation_m": 6.0
+        }
+    },
+    "POHB": {
+        "EL": {
+            "station_latitude_deg": 36.077801,
+            "station_lingitude_deg": 129.353302,
+            "station_elevation_m": 99.0
+        },
+        "HH": {
+            "station_latitude_deg": 36.077801,
+            "station_lingitude_deg": 129.353302,
+            "station_elevation_m": 99.0
+        }
+    },
+    "BOG": {
+        "HG": {
+            "station_latitude_deg": 35.7015,
+            "station_lingitude_deg": 129.206696,
+            "station_elevation_m": 136.0
+        }
+    },
+    "CGU": {
+        "HG": {
+            "station_latitude_deg": 35.819302,
+            "station_lingitude_deg": 129.26980600000002,
+            "station_elevation_m": 205.0
+        }
+    },
+    "DUC": {
+        "HG": {
+            "station_latitude_deg": 35.744499,
+            "station_lingitude_deg": 129.175797,
+            "station_elevation_m": 118.0
+        }
+    },
+    "GCN": {
+        "HG": {
+            "station_latitude_deg": 35.817001,
+            "station_lingitude_deg": 129.13630700000002,
+            "station_elevation_m": 121.0
+        }
+    },
+    "CGWB": {
+        "HH": {
+            "station_latitude_deg": 35.170502,
+            "station_lingitude_deg": 128.572495,
+            "station_elevation_m": 91.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.170502,
+            "station_lingitude_deg": 128.572495,
+            "station_elevation_m": 91.0
+        }
+    },
+    "BLGA": {
+        "HG": {
+            "station_latitude_deg": 36.139198,
+            "station_lingitude_deg": 127.3032,
+            "station_elevation_m": 300.0
+        }
+    },
+    "BUSA": {
+        "HG": {
+            "station_latitude_deg": 36.979198,
+            "station_lingitude_deg": 128.660995,
+            "station_elevation_m": 348.0
+        }
+    },
+    "CEA2": {
+        "EL": {
+            "station_latitude_deg": 36.823002,
+            "station_lingitude_deg": 127.257301,
+            "station_elevation_m": 228.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.823002,
+            "station_lingitude_deg": 127.257301,
+            "station_elevation_m": 228.0
+        }
+    },
+    "DKSA": {
+        "HG": {
+            "station_latitude_deg": 36.904301,
+            "station_lingitude_deg": 128.145493,
+            "station_elevation_m": 325.0
+        }
+    },
+    "SMWA": {
+        "HG": {
+            "station_latitude_deg": 35.525799,
+            "station_lingitude_deg": 126.552299,
+            "station_elevation_m": 64.0
+        }
+    },
+    "SWO2": {
+        "EL": {
+            "station_latitude_deg": 37.2808,
+            "station_lingitude_deg": 126.9823,
+            "station_elevation_m": 119.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.2808,
+            "station_lingitude_deg": 126.9823,
+            "station_elevation_m": 119.0
+        }
+    },
+    "GIGA": {
+        "HG": {
+            "station_latitude_deg": 36.06880200000001,
+            "station_lingitude_deg": 129.199493,
+            "station_elevation_m": 100.0
+        }
+    },
+    "GODA": {
+        "HG": {
+            "station_latitude_deg": 37.789501,
+            "station_lingitude_deg": 126.291702,
+            "station_elevation_m": 55.0
+        }
+    },
+    "HMGA": {
+        "HG": {
+            "station_latitude_deg": 36.076199,
+            "station_lingitude_deg": 129.566696,
+            "station_elevation_m": 79.0
+        }
+    },
+    "CGUB": {
+        "HH": {
+            "station_latitude_deg": 37.5583,
+            "station_lingitude_deg": 127.713699,
+            "station_elevation_m": 159.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.5583,
+            "station_lingitude_deg": 127.713699,
+            "station_elevation_m": 159.0
+        }
+    },
+    "ISGB": {
+        "HH": {
+            "station_latitude_deg": 35.934502,
+            "station_lingitude_deg": 126.974197,
+            "station_elevation_m": 52.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.934502,
+            "station_lingitude_deg": 126.974197,
+            "station_elevation_m": 52.0
+        }
+    },
+    "SNGB": {
+        "HH": {
+            "station_latitude_deg": 37.3465,
+            "station_lingitude_deg": 129.086197,
+            "station_elevation_m": 124.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.3465,
+            "station_lingitude_deg": 129.086197,
+            "station_elevation_m": 124.0
+        }
+    },
+    "AGSA": {
+        "HG": {
+            "station_latitude_deg": 37.09170200000001,
+            "station_lingitude_deg": 127.808197,
+            "station_elevation_m": 104.0
+        }
+    },
+    "DGHA": {
+        "HG": {
+            "station_latitude_deg": 35.835201,
+            "station_lingitude_deg": 127.571198,
+            "station_elevation_m": 358.0
+        }
+    },
+    "DGLA": {
+        "HG": {
+            "station_latitude_deg": 36.790699,
+            "station_lingitude_deg": 128.270493,
+            "station_elevation_m": 491.0
+        }
+    },
+    "GSNA": {
+        "HG": {
+            "station_latitude_deg": 35.757702,
+            "station_lingitude_deg": 129.010803,
+            "station_elevation_m": 217.0
+        }
+    },
+    "HMPA": {
+        "HG": {
+            "station_latitude_deg": 35.1413,
+            "station_lingitude_deg": 126.617699,
+            "station_elevation_m": 57.0
+        }
+    },
+    "JNHA": {
+        "HG": {
+            "station_latitude_deg": 35.112202,
+            "station_lingitude_deg": 128.753693,
+            "station_elevation_m": 64.0
+        }
+    },
+    "JNYA": {
+        "HG": {
+            "station_latitude_deg": 35.2822,
+            "station_lingitude_deg": 128.7173,
+            "station_elevation_m": 68.0
+        }
+    },
+    "KOSB": {
+        "HH": {
+            "station_latitude_deg": 38.602798,
+            "station_lingitude_deg": 128.359695,
+            "station_elevation_m": 62.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.602798,
+            "station_lingitude_deg": 128.359695,
+            "station_elevation_m": 62.0
+        }
+    },
+    "NACA": {
+        "HG": {
+            "station_latitude_deg": 35.9505,
+            "station_lingitude_deg": 126.591003,
+            "station_elevation_m": 42.0
+        }
+    },
+    "NCNA": {
+        "HG": {
+            "station_latitude_deg": 37.819698,
+            "station_lingitude_deg": 128.091797,
+            "station_elevation_m": 275.0
+        }
+    },
+    "SECA": {
+        "HH": {
+            "station_latitude_deg": 36.1422,
+            "station_lingitude_deg": 126.751801,
+            "station_elevation_m": 70.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.1422,
+            "station_lingitude_deg": 126.751801,
+            "station_elevation_m": 70.0
+        }
+    },
+    "SUBA": {
+        "HG": {
+            "station_latitude_deg": 36.7827,
+            "station_lingitude_deg": 129.221207,
+            "station_elevation_m": 427.0
+        }
+    },
+    "TAIA": {
+        "HG": {
+            "station_latitude_deg": 35.6507,
+            "station_lingitude_deg": 126.931801,
+            "station_elevation_m": 50.0
+        }
+    },
+    "YUGA": {
+        "HG": {
+            "station_latitude_deg": 36.540699,
+            "station_lingitude_deg": 126.947304,
+            "station_elevation_m": 94.0
+        }
+    },
+    "CGDA": {
+        "HG": {
+            "station_latitude_deg": 35.662701,
+            "station_lingitude_deg": 128.670303,
+            "station_elevation_m": 147.0
+        }
+    },
+    "GACA": {
+        "HG": {
+            "station_latitude_deg": 35.113701,
+            "station_lingitude_deg": 128.307205,
+            "station_elevation_m": 168.0
+        }
+    },
+    "GGDA": {
+        "HG": {
+            "station_latitude_deg": 35.949799,
+            "station_lingitude_deg": 129.253006,
+            "station_elevation_m": 75.0
+        }
+    },
+    "GGGA": {
+        "HG": {
+            "station_latitude_deg": 36.363701,
+            "station_lingitude_deg": 129.390701,
+            "station_elevation_m": 129.0
+        }
+    },
+    "GMNA": {
+        "HG": {
+            "station_latitude_deg": 34.9832,
+            "station_lingitude_deg": 127.894699,
+            "station_elevation_m": 145.0
+        }
+    },
+    "HAWA": {
+        "HG": {
+            "station_latitude_deg": 34.671001000000004,
+            "station_lingitude_deg": 126.3283,
+            "station_elevation_m": 51.0
+        }
+    },
+    "UNCA": {
+        "HG": {
+            "station_latitude_deg": 35.469501,
+            "station_lingitude_deg": 129.23950200000002,
+            "station_elevation_m": 93.0
+        }
+    },
+    "YGAA": {
+        "HG": {
+            "station_latitude_deg": 35.853199,
+            "station_lingitude_deg": 128.365707,
+            "station_elevation_m": 74.0
+        }
+    },
+    "CGYA": {
+        "HG": {
+            "station_latitude_deg": 36.423302,
+            "station_lingitude_deg": 126.778702,
+            "station_elevation_m": 139.0
+        }
+    },
+    "NLDA": {
+        "HG": {
+            "station_latitude_deg": 34.532501,
+            "station_lingitude_deg": 127.467201,
+            "station_elevation_m": 178.0
+        }
+    },
+    "CGIA": {
+        "HG": {
+            "station_latitude_deg": 37.582199,
+            "station_lingitude_deg": 128.152695,
+            "station_elevation_m": 260.0
+        }
+    },
+    "DNBA": {
+        "HG": {
+            "station_latitude_deg": 36.390701,
+            "station_lingitude_deg": 128.428299,
+            "station_elevation_m": 122.0
+        }
+    },
+    "NAMB": {
+        "HH": {
+            "station_latitude_deg": 37.771198,
+            "station_lingitude_deg": 128.38630700000002,
+            "station_elevation_m": 655.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.771198,
+            "station_lingitude_deg": 128.38630700000002,
+            "station_elevation_m": 655.0
+        }
+    },
+    "MLGA": {
+        "HG": {
+            "station_latitude_deg": 35.311298,
+            "station_lingitude_deg": 128.996796,
+            "station_elevation_m": 54.0
+        }
+    },
+    "YGJA": {
+        "HG": {
+            "station_latitude_deg": 35.027802,
+            "station_lingitude_deg": 128.483307,
+            "station_elevation_m": 50.0
+        }
+    },
+    "MMD": {
+        "HH": {
+            "station_latitude_deg": 34.6488,
+            "station_lingitude_deg": 128.576797,
+            "station_elevation_m": 117.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.6488,
+            "station_lingitude_deg": 128.576797,
+            "station_elevation_m": 117.0
+        }
+    },
+    "TAHA": {
+        "HH": {
+            "station_latitude_deg": 37.514999,
+            "station_lingitude_deg": 130.811798,
+            "station_elevation_m": 214.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.514999,
+            "station_lingitude_deg": 130.811798,
+            "station_elevation_m": 214.0
+        }
+    },
+    "JURA": {
+        "HH": {
+            "station_latitude_deg": 37.6147,
+            "station_lingitude_deg": 127.0868,
+            "station_elevation_m": 84.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.6147,
+            "station_lingitude_deg": 127.0868,
+            "station_elevation_m": 84.0
+        }
+    },
+    "ULDR": {
+        "HH": {
+            "station_latitude_deg": 37.480801,
+            "station_lingitude_deg": 130.898697,
+            "station_elevation_m": 268.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.480801,
+            "station_lingitude_deg": 130.898697,
+            "station_elevation_m": 268.0
+        }
+    },
+    "BLLA": {
+        "HG": {
+            "station_latitude_deg": 34.8647,
+            "station_lingitude_deg": 127.463799,
+            "station_elevation_m": 44.0
+        }
+    },
+    "BON2": {
+        "EL": {
+            "station_latitude_deg": 36.548199,
+            "station_lingitude_deg": 127.798203,
+            "station_elevation_m": 355.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.548199,
+            "station_lingitude_deg": 127.798203,
+            "station_elevation_m": 355.0
+        }
+    },
+    "CHRA": {
+        "HH": {
+            "station_latitude_deg": 35.534199,
+            "station_lingitude_deg": 128.477798,
+            "station_elevation_m": 79.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.534199,
+            "station_lingitude_deg": 128.477798,
+            "station_elevation_m": 79.0
+        }
+    },
+    "CSOA": {
+        "HH": {
+            "station_latitude_deg": 36.387798,
+            "station_lingitude_deg": 129.085297,
+            "station_elevation_m": 258.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.387798,
+            "station_lingitude_deg": 129.085297,
+            "station_elevation_m": 258.0
+        }
+    },
+    "HAIA": {
+        "HG": {
+            "station_latitude_deg": 34.944302,
+            "station_lingitude_deg": 128.192795,
+            "station_elevation_m": 61.0
+        }
+    },
+    "IJBA": {
+        "HG": {
+            "station_latitude_deg": 38.1208,
+            "station_lingitude_deg": 128.317307,
+            "station_elevation_m": 452.0
+        }
+    },
+    "JODB": {
+        "HH": {
+            "station_latitude_deg": 34.311501,
+            "station_lingitude_deg": 126.043701,
+            "station_elevation_m": 77.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.311501,
+            "station_lingitude_deg": 126.043701,
+            "station_elevation_m": 77.0
+        }
+    },
+    "JUCA": {
+        "HG": {
+            "station_latitude_deg": 35.242199,
+            "station_lingitude_deg": 128.828003,
+            "station_elevation_m": 71.0
+        }
+    },
+    "MSNA": {
+        "HG": {
+            "station_latitude_deg": 35.588299,
+            "station_lingitude_deg": 128.95379599999998,
+            "station_elevation_m": 272.0
+        }
+    },
+    "GMHB": {
+        "HH": {
+            "station_latitude_deg": 38.25,
+            "station_lingitude_deg": 127.420799,
+            "station_elevation_m": 251.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.25,
+            "station_lingitude_deg": 127.420799,
+            "station_elevation_m": 251.0
+        }
+    },
+    "GMPB": {
+        "HH": {
+            "station_latitude_deg": 37.641998,
+            "station_lingitude_deg": 126.675499,
+            "station_elevation_m": 40.0
+        },
+        "HG": {
+            "station_latitude_deg": 37.641998,
+            "station_lingitude_deg": 126.675499,
+            "station_elevation_m": 40.0
+        }
+    },
+    "MALA": {
+        "HG": {
+            "station_latitude_deg": 35.744499,
+            "station_lingitude_deg": 127.347801,
+            "station_elevation_m": 308.0
+        }
+    },
+    "SGMA": {
+        "HG": {
+            "station_latitude_deg": 37.827999,
+            "station_lingitude_deg": 127.288002,
+            "station_elevation_m": 310.0
+        }
+    },
+    "YALB": {
+        "HH": {
+            "station_latitude_deg": 35.727798,
+            "station_lingitude_deg": 128.193298,
+            "station_elevation_m": 396.0
+        },
+        "HG": {
+            "station_latitude_deg": 35.727798,
+            "station_lingitude_deg": 128.193298,
+            "station_elevation_m": 396.0
+        }
+    },
+    "HGDB": {
+        "HH": {
+            "station_latitude_deg": 34.706799,
+            "station_lingitude_deg": 125.201202,
+            "station_elevation_m": 44.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.706799,
+            "station_lingitude_deg": 125.201202,
+            "station_elevation_m": 44.0
+        }
+    },
+    "YAYB": {
+        "HH": {
+            "station_latitude_deg": 38.025501,
+            "station_lingitude_deg": 128.716003,
+            "station_elevation_m": 45.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.025501,
+            "station_lingitude_deg": 128.716003,
+            "station_elevation_m": 45.0
+        }
+    },
+    "CJDB": {
+        "HH": {
+            "station_latitude_deg": 36.174,
+            "station_lingitude_deg": 126.528297,
+            "station_elevation_m": 55.0
+        },
+        "HG": {
+            "station_latitude_deg": 36.174,
+            "station_lingitude_deg": 126.528297,
+            "station_elevation_m": 55.0
+        }
+    },
+    "GEJB": {
+        "HH": {
+            "station_latitude_deg": 38.4165,
+            "station_lingitude_deg": 128.385803,
+            "station_elevation_m": 135.0
+        },
+        "HG": {
+            "station_latitude_deg": 38.4165,
+            "station_lingitude_deg": 128.385803,
+            "station_elevation_m": 135.0
+        }
+    },
+    "MOPB": {
+        "HH": {
+            "station_latitude_deg": 34.816799,
+            "station_lingitude_deg": 126.380798,
+            "station_elevation_m": 92.0
+        },
+        "HG": {
+            "station_latitude_deg": 34.816799,
+            "station_lingitude_deg": 126.380798,
+            "station_elevation_m": 92.0
+        }
+    },
+    "NJDA": {
+        "HG": {
+            "station_latitude_deg": 37.050301,
+            "station_lingitude_deg": 126.422203,
+            "station_elevation_m": 76.0
+        }
+    },
+    "SODA": {
+        "HG": {
+            "station_latitude_deg": 37.571301,
+            "station_lingitude_deg": 126.966202,
+            "station_elevation_m": 130.0
+        }
+    },
+    "JESA": {
+        "HG": {
+            "station_latitude_deg": 37.43030200000001,
+            "station_lingitude_deg": 128.665298,
+            "station_elevation_m": 415.0
+        }
+    },
+    "HADA": {
+        "HG": {
+            "station_latitude_deg": 35.0798,
+            "station_lingitude_deg": 127.770699,
+            "station_elevation_m": 67.0
+        }
+    },
+    "NAHA": {
+        "HG": {
+            "station_latitude_deg": 34.8167,
+            "station_lingitude_deg": 127.926201,
+            "station_elevation_m": 92.0
+        }
+    },
+    "SAJA": {
+        "HG": {
+            "station_latitude_deg": 36.407799,
+            "station_lingitude_deg": 128.157501,
+            "station_elevation_m": 146.0
+        }
+    },
+    "NAJA": {
+        "HG": {
+            "station_latitude_deg": 35.026001,
+            "station_lingitude_deg": 126.8265,
+            "station_elevation_m": 65.0
+        }
+    },
+    "KIP": {
+        "HH": {
+            "station_latitude_deg": 37.758301,
+            "station_lingitude_deg": 126.639801,
+            "station_elevation_m": 122.0
+        }
+    },
+    "HCH": {
+        "HH": {
+            "station_latitude_deg": 36.0793,
+            "station_lingitude_deg": 129.305206,
+            "station_elevation_m": 100.0
+        }
+    },
+    "PKNU": {
+        "HG": {
+            "station_latitude_deg": 35.283001,
+            "station_lingitude_deg": 129.258499,
+            "station_elevation_m": 6.0
+        }
+    },
+    "SIG": {
+        "HG": {
+            "station_latitude_deg": 35.770802,
+            "station_lingitude_deg": 129.325195,
+            "station_elevation_m": 100.0
+        }
+    },
+    "GKP2": {
+        "HH": {
+            "station_latitude_deg": 35.890701,
+            "station_lingitude_deg": 128.606506,
+            "station_elevation_m": 51.0
+        }
+    },
+    "JUC": {
+        "HG": {
+            "station_latitude_deg": 36.092499,
+            "station_lingitude_deg": 129.414307,
+            "station_elevation_m": 27.0
+        }
+    },
+    "DES": {
+        "HH": {
+            "station_latitude_deg": 36.148998,
+            "station_lingitude_deg": 129.306503,
+            "station_elevation_m": 75.0
+        }
+    },
+    "POSB": {
+        "HH": {
+            "station_latitude_deg": 36.025501,
+            "station_lingitude_deg": 129.311798,
+            "station_elevation_m": 100.0
+        }
+    },
+    "ASNA": {
+        "HG": {
+            "station_latitude_deg": 36.827702,
+            "station_lingitude_deg": 127.012299,
+            "station_elevation_m": 85.0
+        }
+    },
+    "BKWA": {
+        "HG": {
+            "station_latitude_deg": 37.168201,
+            "station_lingitude_deg": 127.987503,
+            "station_elevation_m": 278.0
+        }
+    },
+    "BOGA": {
+        "HG": {
+            "station_latitude_deg": 37.013199,
+            "station_lingitude_deg": 127.3293,
+            "station_elevation_m": 119.0
+        }
+    },
+    "BSAA": {
+        "HG": {
+            "station_latitude_deg": 35.0662,
+            "station_lingitude_deg": 129.074203,
+            "station_elevation_m": 182.0
+        }
+    },
+    "CGAA": {
+        "HG": {
+            "station_latitude_deg": 36.706799,
+            "station_lingitude_deg": 127.726196,
+            "station_elevation_m": 230.0
+        }
+    },
+    "CGPA": {
+        "HG": {
+            "station_latitude_deg": 34.876801,
+            "station_lingitude_deg": 126.971001,
+            "station_elevation_m": 144.0
+        }
+    },
+    "CHDA": {
+        "HG": {
+            "station_latitude_deg": 34.236801,
+            "station_lingitude_deg": 127.249702,
+            "station_elevation_m": 87.0
+        }
+    },
+    "CHOA": {
+        "HG": {
+            "station_latitude_deg": 35.840698,
+            "station_lingitude_deg": 127.117203,
+            "station_elevation_m": 102.0
+        }
+    },
+    "CHRB": {
+        "HH": {
+            "station_latitude_deg": 35.534199,
+            "station_lingitude_deg": 128.477798,
+            "station_elevation_m": 75.0
+        }
+    },
+    "CLSA": {
+        "HG": {
+            "station_latitude_deg": 35.362801,
+            "station_lingitude_deg": 128.490799,
+            "station_elevation_m": 61.0
+        }
+    },
+    "DAGA": {
+        "HG": {
+            "station_latitude_deg": 35.878799,
+            "station_lingitude_deg": 128.652802,
+            "station_elevation_m": 108.0
+        }
+    },
+    "DEI2": {
+        "HH": {
+            "station_latitude_deg": 37.255798,
+            "station_lingitude_deg": 126.104797,
+            "station_elevation_m": 89.0
+        }
+    },
+    "DGJA": {
+        "HG": {
+            "station_latitude_deg": 36.889301,
+            "station_lingitude_deg": 126.617302,
+            "station_elevation_m": 100.0
+        }
+    },
+    "DNYA": {
+        "HG": {
+            "station_latitude_deg": 36.987701,
+            "station_lingitude_deg": 128.355804,
+            "station_elevation_m": 226.0
+        }
+    },
+    "GAGA": {
+        "HG": {
+            "station_latitude_deg": 37.130699,
+            "station_lingitude_deg": 129.169693,
+            "station_elevation_m": 200.0
+        }
+    },
+    "GBI2": {
+        "HH": {
+            "station_latitude_deg": 36.625702,
+            "station_lingitude_deg": 125.559502,
+            "station_elevation_m": 144.0
+        }
+    },
+    "GGSA": {
+        "HG": {
+            "station_latitude_deg": 36.929699,
+            "station_lingitude_deg": 129.151794,
+            "station_elevation_m": 645.0
+        }
+    },
+    "GGTA": {
+        "HG": {
+            "station_latitude_deg": 37.7687,
+            "station_lingitude_deg": 126.8992,
+            "station_elevation_m": 115.0
+        }
+    },
+    "GH2B": {
+        "HH": {
+            "station_latitude_deg": 37.707699,
+            "station_lingitude_deg": 126.446297,
+            "station_elevation_m": 79.0
+        }
+    },
+    "GICA": {
+        "HG": {
+            "station_latitude_deg": 36.081299,
+            "station_lingitude_deg": 128.1017,
+            "station_elevation_m": 130.0
+        }
+    },
+    "GKSA": {
+        "HG": {
+            "station_latitude_deg": 35.23030100000001,
+            "station_lingitude_deg": 127.225197,
+            "station_elevation_m": 180.0
+        }
+    },
+    "GLCA": {
+        "HG": {
+            "station_latitude_deg": 37.9048,
+            "station_lingitude_deg": 128.52070600000002,
+            "station_elevation_m": 590.0
+        }
+    },
+    "GLSA": {
+        "HG": {
+            "station_latitude_deg": 36.5257,
+            "station_lingitude_deg": 126.544998,
+            "station_elevation_m": 62.0
+        }
+    },
+    "GSGA": {
+        "HG": {
+            "station_latitude_deg": 37.551701,
+            "station_lingitude_deg": 126.844299,
+            "station_elevation_m": 66.0
+        }
+    },
+    "GUJA": {
+        "HG": {
+            "station_latitude_deg": 33.550301,
+            "station_lingitude_deg": 126.750298,
+            "station_elevation_m": 69.0
+        }
+    },
+    "GUMA": {
+        "HG": {
+            "station_latitude_deg": 36.234699,
+            "station_lingitude_deg": 128.290298,
+            "station_elevation_m": 107.0
+        }
+    },
+    "GWLA": {
+        "HG": {
+            "station_latitude_deg": 37.2197,
+            "station_lingitude_deg": 128.821304,
+            "station_elevation_m": 856.0
+        }
+    },
+    "HEDA": {
+        "HG": {
+            "station_latitude_deg": 34.6063,
+            "station_lingitude_deg": 126.036499,
+            "station_elevation_m": 43.0
+        }
+    },
+    "HESA": {
+        "HG": {
+            "station_latitude_deg": 37.540699,
+            "station_lingitude_deg": 127.956299,
+            "station_elevation_m": 260.0
+        }
+    },
+    "HGSA": {
+        "HG": {
+            "station_latitude_deg": 36.658001,
+            "station_lingitude_deg": 126.687798,
+            "station_elevation_m": 64.0
+        }
+    },
+    "HONA": {
+        "HG": {
+            "station_latitude_deg": 36.445702,
+            "station_lingitude_deg": 127.579201,
+            "station_elevation_m": 136.0
+        }
+    },
+    "HTDA": {
+        "HG": {
+            "station_latitude_deg": 34.390999,
+            "station_lingitude_deg": 125.298698,
+            "station_elevation_m": 55.0
+        }
+    },
+    "HWDB": {
+        "HH": {
+            "station_latitude_deg": 37.632198,
+            "station_lingitude_deg": 127.340302,
+            "station_elevation_m": 81.0
+        }
+    },
+    "HWSA": {
+        "HG": {
+            "station_latitude_deg": 36.441299,
+            "station_lingitude_deg": 127.944199,
+            "station_elevation_m": 330.0
+        }
+    },
+    "IJDB": {
+        "HH": {
+            "station_latitude_deg": 35.102798,
+            "station_lingitude_deg": 126.065201,
+            "station_elevation_m": 38.0
+        }
+    },
+    "IMSB": {
+        "HH": {
+            "station_latitude_deg": 35.612499,
+            "station_lingitude_deg": 127.2855,
+            "station_elevation_m": 313.0
+        }
+    },
+    "JAEA": {
+        "HG": {
+            "station_latitude_deg": 36.800201,
+            "station_lingitude_deg": 128.990295,
+            "station_elevation_m": 382.0
+        }
+    },
+    "JAGA": {
+        "HG": {
+            "station_latitude_deg": 35.319801,
+            "station_lingitude_deg": 126.810699,
+            "station_elevation_m": 106.0
+        }
+    },
+    "JCUA": {
+        "HG": {
+            "station_latitude_deg": 37.275299,
+            "station_lingitude_deg": 128.269302,
+            "station_elevation_m": 319.0
+        }
+    },
+    "JDO2": {
+        "EL": {
+            "station_latitude_deg": 34.473,
+            "station_lingitude_deg": 126.323799,
+            "station_elevation_m": 511.0
+        }
+    },
+    "JGNA": {
+        "HG": {
+            "station_latitude_deg": 35.875301,
+            "station_lingitude_deg": 128.04849199999998,
+            "station_elevation_m": 409.0
+        }
+    },
+    "JKJA": {
+        "HG": {
+            "station_latitude_deg": 36.242199,
+            "station_lingitude_deg": 129.215195,
+            "station_elevation_m": 422.0
+        }
+    },
+    "JLSA": {
+        "HG": {
+            "station_latitude_deg": 35.357498,
+            "station_lingitude_deg": 127.648003,
+            "station_elevation_m": 536.0
+        }
+    },
+    "JMJ2": {
+        "EL": {
+            "station_latitude_deg": 37.881699,
+            "station_lingitude_deg": 128.756195,
+            "station_elevation_m": 92.0
+        }
+    },
+    "JNUA": {
+        "HG": {
+            "station_latitude_deg": 36.6908,
+            "station_lingitude_deg": 127.2005,
+            "station_elevation_m": 130.0
+        }
+    },
+    "KH2B": {
+        "HH": {
+            "station_latitude_deg": 34.618697999999995,
+            "station_lingitude_deg": 127.275803,
+            "station_elevation_m": 106.0
+        }
+    },
+    "KKDA": {
+        "HG": {
+            "station_latitude_deg": 34.4557,
+            "station_lingitude_deg": 127.122299,
+            "station_elevation_m": 52.0
+        }
+    },
+    "KMSB": {
+        "HH": {
+            "station_latitude_deg": 36.105801,
+            "station_lingitude_deg": 127.481697,
+            "station_elevation_m": 205.0
+        }
+    },
+    "LIWA": {
+        "HG": {
+            "station_latitude_deg": 36.248199,
+            "station_lingitude_deg": 127.613701,
+            "station_elevation_m": 147.0
+        }
+    },
+    "LMGA": {
+        "HG": {
+            "station_latitude_deg": 37.491798,
+            "station_lingitude_deg": 128.8638,
+            "station_elevation_m": 555.0
+        }
+    },
+    "MANA": {
+        "HG": {
+            "station_latitude_deg": 35.0942,
+            "station_lingitude_deg": 126.285004,
+            "station_elevation_m": 95.0
+        }
+    },
+    "MJDB": {
+        "HH": {
+            "station_latitude_deg": 34.207298,
+            "station_lingitude_deg": 125.4692,
+            "station_elevation_m": 44.0
+        }
+    },
+    "MNDB": {
+        "HH": {
+            "station_latitude_deg": 34.966499,
+            "station_lingitude_deg": 127.160797,
+            "station_elevation_m": 165.0
+        }
+    },
+    "MOGA": {
+        "HG": {
+            "station_latitude_deg": 37.696201,
+            "station_lingitude_deg": 127.582497,
+            "station_elevation_m": 127.0
+        }
+    },
+    "NOSA": {
+        "HG": {
+            "station_latitude_deg": 36.283699,
+            "station_lingitude_deg": 127.127296,
+            "station_elevation_m": 110.0
+        }
+    },
+    "PGEA": {
+        "HG": {
+            "station_latitude_deg": 36.756001,
+            "station_lingitude_deg": 128.6922,
+            "station_elevation_m": 215.0
+        }
+    },
+    "PTKA": {
+        "HG": {
+            "station_latitude_deg": 36.997002,
+            "station_lingitude_deg": 127.1353,
+            "station_elevation_m": 66.0
+        }
+    },
+    "PYCB": {
+        "HH": {
+            "station_latitude_deg": 37.377499,
+            "station_lingitude_deg": 128.394699,
+            "station_elevation_m": 344.0
+        }
+    },
+    "PYSB": {
+        "HH": {
+            "station_latitude_deg": 33.353699,
+            "station_lingitude_deg": 126.816704,
+            "station_elevation_m": 138.0
+        }
+    },
+    "SAJB": {
+        "HH": {
+            "station_latitude_deg": 36.407799,
+            "station_lingitude_deg": 128.157501,
+            "station_elevation_m": 126.0
+        }
+    },
+    "SESA": {
+        "HG": {
+            "station_latitude_deg": 37.720001,
+            "station_lingitude_deg": 128.17349199999998,
+            "station_elevation_m": 341.0
+        }
+    },
+    "SGNA": {
+        "HG": {
+            "station_latitude_deg": 37.446201,
+            "station_lingitude_deg": 127.183197,
+            "station_elevation_m": 193.0
+        }
+    },
+    "SH2B": {
+        "HH": {
+            "station_latitude_deg": 38.2687,
+            "station_lingitude_deg": 128.252502,
+            "station_elevation_m": 423.0
+        }
+    },
+    "SIJA": {
+        "HG": {
+            "station_latitude_deg": 34.895302,
+            "station_lingitude_deg": 126.588203,
+            "station_elevation_m": 50.0
+        }
+    },
+    "SKBA": {
+        "HG": {
+            "station_latitude_deg": 36.521198,
+            "station_lingitude_deg": 129.179199,
+            "station_elevation_m": 304.0
+        }
+    },
+    "SLSA": {
+        "HG": {
+            "station_latitude_deg": 37.1348,
+            "station_lingitude_deg": 127.519699,
+            "station_elevation_m": 128.0
+        }
+    },
+    "SNDA": {
+        "HG": {
+            "station_latitude_deg": 37.2617,
+            "station_lingitude_deg": 128.595703,
+            "station_elevation_m": 295.0
+        }
+    },
+    "SNNA": {
+        "HG": {
+            "station_latitude_deg": 36.050201,
+            "station_lingitude_deg": 128.711197,
+            "station_elevation_m": 303.0
+        }
+    },
+    "UJBA": {
+        "HG": {
+            "station_latitude_deg": 37.754799,
+            "station_lingitude_deg": 127.1063,
+            "station_elevation_m": 113.0
+        }
+    },
+    "UJNA": {
+        "HG": {
+            "station_latitude_deg": 36.992699,
+            "station_lingitude_deg": 129.413696,
+            "station_elevation_m": 100.0
+        }
+    },
+    "WICA": {
+        "HG": {
+            "station_latitude_deg": 35.731201,
+            "station_lingitude_deg": 127.801697,
+            "station_elevation_m": 510.0
+        }
+    },
+    "WNBA": {
+        "HG": {
+            "station_latitude_deg": 36.823799,
+            "station_lingitude_deg": 126.257202,
+            "station_elevation_m": 57.0
+        }
+    },
+    "YAGA": {
+        "HG": {
+            "station_latitude_deg": 37.407001,
+            "station_lingitude_deg": 127.756798,
+            "station_elevation_m": 153.0
+        }
+    },
+    "YC2B": {
+        "HH": {
+            "station_latitude_deg": 38.039799,
+            "station_lingitude_deg": 126.925797,
+            "station_elevation_m": 75.0
+        }
+    },
+    "YCHB": {
+        "HH": {
+            "station_latitude_deg": 36.622299,
+            "station_lingitude_deg": 128.437302,
+            "station_elevation_m": 129.0
+        }
+    },
+    "YDGA": {
+        "HG": {
+            "station_latitude_deg": 36.092499,
+            "station_lingitude_deg": 127.794296,
+            "station_elevation_m": 365.0
+        }
+    },
+    "YEAB": {
+        "HH": {
+            "station_latitude_deg": 36.661201,
+            "station_lingitude_deg": 128.887299,
+            "station_elevation_m": 261.0
+        }
+    },
+    "YEGA": {
+        "HG": {
+            "station_latitude_deg": 35.283798,
+            "station_lingitude_deg": 126.477699,
+            "station_elevation_m": 78.0
+        }
+    },
+    "YGBA": {
+        "HG": {
+            "station_latitude_deg": 35.795502,
+            "station_lingitude_deg": 129.386505,
+            "station_elevation_m": 138.0
+        }
+    },
+    "YGGA": {
+        "HG": {
+            "station_latitude_deg": 38.098,
+            "station_lingitude_deg": 127.985199,
+            "station_elevation_m": 228.0
+        }
+    },
+    "YOGA": {
+        "HG": {
+            "station_latitude_deg": 38.0942,
+            "station_lingitude_deg": 127.276497,
+            "station_elevation_m": 200.0
+        }
+    },
+    "YSDA": {
+        "HG": {
+            "station_latitude_deg": 33.986698,
+            "station_lingitude_deg": 126.920502,
+            "station_elevation_m": 67.0
+        }
+    },
+    "BUS3": {
+        "HH": {
+            "station_latitude_deg": 35.248699,
+            "station_lingitude_deg": 129.112503,
+            "station_elevation_m": 117.0
+        }
+    },
+    "SEO3": {
+        "HH": {
+            "station_latitude_deg": 37.493801,
+            "station_lingitude_deg": 126.917198,
+            "station_elevation_m": 114.0
+        }
+    },
+    "CHJ3": {
+        "HH": {
+            "station_latitude_deg": 36.873001,
+            "station_lingitude_deg": 127.9748,
+            "station_elevation_m": 247.0
+        }
+    },
+    "CRB": {
+        "HG": {
+            "station_latitude_deg": 37.389801,
+            "station_lingitude_deg": 127.958801,
+            "station_elevation_m": 185.0
+        }
+    },
+    "KNUC": {
+        "HH": {
+            "station_latitude_deg": 37.8727,
+            "station_lingitude_deg": 127.742699,
+            "station_elevation_m": 117.0
+        }
+    },
+    "YSUK": {
+        "HG": {
+            "station_latitude_deg": 37.3792,
+            "station_lingitude_deg": 126.670998,
+            "station_elevation_m": 0.0
+        }
+    },
+    "UNI": {
+        "HG": {
+            "station_latitude_deg": 35.574001,
+            "station_lingitude_deg": 129.184998,
+            "station_elevation_m": 70.0
+        }
+    },
+    "YJD3": {
+        "HG": {
+            "station_latitude_deg": 37.499001,
+            "station_lingitude_deg": 126.549301,
+            "station_elevation_m": 65.0
+        }
+    },
+    "YSUM": {
+        "HG": {
+            "station_latitude_deg": 37.2827,
+            "station_lingitude_deg": 127.903297,
+            "station_elevation_m": 198.0
+        }
+    },
+    "IBA": {
+        "HG": {
+            "station_latitude_deg": 35.4617,
+            "station_lingitude_deg": 126.839302,
+            "station_elevation_m": 179.0
+        }
+    },
+    "WDL": {
+        "HG": {
+            "station_latitude_deg": 35.100201,
+            "station_lingitude_deg": 127.371803,
+            "station_elevation_m": 287.0
+        }
+    },
+    "CEBA": {
+        "HG": {
+            "station_latitude_deg": 37.540501,
+            "station_lingitude_deg": 130.917206,
+            "station_elevation_m": 59.0
+        }
+    }
+}

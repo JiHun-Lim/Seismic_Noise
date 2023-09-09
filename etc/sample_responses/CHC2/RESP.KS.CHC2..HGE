@@ -1,0 +1,40 @@
+#           Q330HRS + ES-T
+B050F03     Station:     CHC2
+B050F16     Network:     KS
+B052F03     Location:    ??
+B052F04     Channel:     HGE
+B052F22	Start date:	2000,352,00:00:00
+B052F23     End date:    2599,365,23:59:59
+#
+B053F03     Transfer function type:                A
+B053F04     Stage sequence number:                 1
+B053F05     Response in units lookup:              M/S**2
+B053F06     Response out units lookup:             V - Volts
+B053F07     A0 normalization factor:               +2.45957E+13
+B053F08     Normalization frequency:               +1.00000E+00
+B053F09     Number of zeroes:                      0
+B053F14     Number of poles:                       4
+#              Complex zeroes:
+#              i  real          imag          real_error    imag_error
+#              Complex poles:
+#              i  real          imag          real_error    imag_error
+B053F15-18     0  -9.81000E+02  +1.00900E+03  +0.00000E+00  +0.00000E+00
+B053F15-18     1  -9.81000E+02  -1.00900E+03  +0.00000E+00  +0.00000E+00
+B053F15-18     2  -3.29000E+03  +1.26300E+03  +0.00000E+00  +0.00000E+00
+B053F15-18     3  -3.29000E+03  -1.26300E+03  +0.00000E+00  +0.00000E+00
+#           SENSOR
+B058F03     Stage sequence number:                 1
+B058F04     Sensitivity:                           +4.07350E+00
+B058F05     Frequency of sensitivity:              +1.00000E+00
+B058F06     Number of calibrations:                0
+#           RECORDER
+B058F03     Stage sequence number:                 2
+B058F04     Sensitivity:                           +4.19430E+05
+B058F05     Frequency of sensitivity:              +1.00000E+00
+B058F06     Number of calibrations:                0
+#           SENSOR*RECORDER
+B058F03     Stage sequence number:                 0
+B058F04     Sensitivity:                           +1.70855E+06
+B058F05     Frequency of sensitivity:              +1.00000E+00
+B058F06     Number of calibrations:                0
+#

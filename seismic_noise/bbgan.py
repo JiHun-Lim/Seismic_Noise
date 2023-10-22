@@ -414,6 +414,29 @@ class bbgan:
             plt.savefig("real.png")            
             plt.close()
 
+            # data2 = real_waveforms
+
+            # iffted_data = np.zeros(data2.shape)
+
+            # for i in range(len(data2)):
+
+            #     for j in range(3):
+
+            #         waveform = data2[i][j]
+
+            #         LOG_EPS = 1e-40
+            #         real_fft = np.absolute(fft(waveform))
+            #         real_power_spec = real_fft ** 2
+            #         real_psd = 10*np.log10(real_power_spec + LOG_EPS)
+
+            #         a = np.random.rand(6000)
+            #         b = np.sqrt(1 - np.power(a,2))
+            #         x = np.sqrt(np.power(10,real_psd/10))
+            #         k = np.concatenate((np.fft.ifft(a*x + b*1j*x)[200:-200],
+            #                             np.fft.ifft(a*x + b*1j*x)[200:600]))
+            #         iffted_data[i][j] = 3 * k
+
+
             ppsd_helper = PPSD_Helper(
                 sta_code=sta_code,
                 sta_type="HH",
@@ -430,6 +453,7 @@ class bbgan:
 
             fake_sample = fake_waveforms[:4, :, :]
             real_sample = real_waveforms[:4, :, :]
+            # iffted_sample = iffted_data[:4, :, :]
 
             plt.figure(figsize=(30, 10))
 
@@ -448,6 +472,24 @@ class bbgan:
         
             plt.savefig(sta_code_path + "/acorrr_real.png")
             plt.close()
+
+            # plt.figure(figsize=(30, 10))
+
+            # for i in range(4):
+            #     for j in range(3):
+            #         plt.acorr(np.random.randn(len(real_sample[i][j])), usevlines=True, normed=True, maxlags = 3000, lw=0.1)
+
+            # plt.savefig(sta_code_path + "/acorrr_wn.png")
+            # plt.close()
+
+            # plt.figure(figsize=(30, 10))
+
+            # for i in range(4):
+            #     for j in range(3):
+            #         plt.acorr(iffted_sample[i][j], usevlines=True, normed=True, maxlags = 3000, lw=0.1)
+
+            # plt.savefig(sta_code_path + "/acorrr_iffted.png")
+            # plt.close()
 
             plt.figure(figsize=(30, 10))
 
@@ -486,6 +528,65 @@ class bbgan:
                 plt.plot(real_sample[0][j])
             plt.savefig(sta_code_path + "/real_sample/3.png")
             plt.close()
+
+            # plt.figure(figsize=(30, 10))
+
+            # for i in range(4):
+            #     for j in range(3):
+            #         fig_idx = 1+i+4*j
+            #         plt.subplot(3, 4, fig_idx)
+            #         plt.plot(iffted_data[i][j])
+            # plt.savefig(sta_code_path + "/fake_sample/iffted_3_4.png")
+            # plt.close()
+
+            # plt.figure(figsize=(30, 10))
+            
+            # for j in range(3):
+            #     fig_idx = 1+j
+            #     plt.subplot(3, 1, fig_idx)
+            #     plt.plot(iffted_data[3][j])
+            # plt.savefig(sta_code_path + "/fake_sample/iffted_3.png")
+            # plt.close()
+
+            # data = fake_sample
+
+            # iffted_data = np.zeros(data.shape)
+
+            # for i in range(len(data)):
+
+            #     for j in range(3):
+
+            #         waveform = data[i][j]
+
+            #         LOG_EPS = 1e-40
+            #         real_fft = np.absolute(fft(waveform))
+            #         real_power_spec = real_fft ** 2
+            #         real_psd = 10*np.log10(real_power_spec + LOG_EPS)
+
+            #         a = np.random.rand(6000)
+            #         b = np.sqrt(1 - np.power(a,2))
+            #         x = np.sqrt(np.power(10,real_psd/10))
+            #         k = np.concatenate((np.fft.ifft(a*x + b*1j*x)[200:-200], np.fft.ifft(a*x + b*1j*x)[200:600]))
+            #         iffted_data[i][j] = k
+
+            # plt.figure(figsize=(30, 10))
+
+            # for i in range(4):
+            #     for j in range(3):
+            #         fig_idx = 1+i+4*j
+            #         plt.subplot(3, 4, fig_idx)
+            #         plt.plot(iffted_data[i][j])
+            # plt.savefig(sta_code_path + "/fake_sample/iffted_concat_3_4.png")
+            # plt.close()
+
+            # plt.figure(figsize=(30, 10))
+            
+            # for j in range(3):
+            #     fig_idx = 1+j
+            #     plt.subplot(3, 1, fig_idx)
+            #     plt.plot(iffted_data[1][j])
+            # plt.savefig(sta_code_path + "/fake_sample/iffted_concat_3.png")
+            # plt.close()
 
     def generate_h5py(self, model_path: str):
         
